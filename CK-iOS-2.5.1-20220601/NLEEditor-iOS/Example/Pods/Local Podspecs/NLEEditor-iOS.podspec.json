@@ -1,0 +1,22 @@
+{
+  "name": "NLEEditor-iOS",
+  "version": "0.1.0",
+  "summary": "A short description of NLEEditor-iOS.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/bytedance/NLEEditor-iOS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "bytedance": "bytedance@bytedance.com"
+  },
+  "source": {
+    "git": "https://github.com/bytedance/NLEEditor-iOS.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "NLEEditor-iOS/Classes/**/*"
+}

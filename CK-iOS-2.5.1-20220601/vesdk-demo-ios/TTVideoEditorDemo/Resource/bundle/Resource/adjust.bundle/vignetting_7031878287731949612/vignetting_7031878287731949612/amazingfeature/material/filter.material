@@ -1,0 +1,30 @@
+%YAML 1.1
+--- !Material &1
+name: filter_material
+guid: {a: 15079672727161192085, b: 370375217179260824}
+xshader: {localId: 1, path: xshader/filter.xshader}
+properties:
+  __class: PropertySheet
+  name: filter_propertySheet
+  guid: {a: 165804152189586873, b: 12217020192296792736}
+  floatmap:
+    __class: Map
+    intensity: 1
+  vec4map:
+    __class: Map
+  vec3map:
+    __class: Map
+  vec2map:
+    __class: Map
+  mat4map:
+    __class: Map
+  texmap:
+    __class: Map
+    inputTexture: {localId: 1, path: image/anjiao.png}
+    mainTexture: {localId: 1, path: share://input.texture}
+  intmap:
+    __class: Map
+renderQueue: 1
+enabledMacros:
+  __class: Map
+mshaderPath: ""

@@ -1,0 +1,12 @@
+{
+  "info_sticker_default_params": {
+    "pos_x": 0.0,
+    "pos_y": 0.0,
+    "scale": 1.0,
+    "rotate": 0.0,
+    "alpha": 1.0,
+    "visible": false,
+    "flip_x": true,
+    "flip_y": false
+  }
+}

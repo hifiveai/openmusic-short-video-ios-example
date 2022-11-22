@@ -1,0 +1,18 @@
+{
+    "type": "duet-layout",
+    "resource": {
+        "list": [{
+            "name": "上下",
+            "path": "shangxia_7031878287731228716/shangxia_7031878287731228716",
+            "icon": "shangxia_7031878287731228716/shangxia_7031878287731228716.png",
+            "hint": "",
+            "tags": ""
+        }, {
+            "name": "左右",
+            "path": "zuoyou_7031878287731294252/zuoyou_7031878287731294252",
+            "icon": "zuoyou_7031878287731294252/zuoyou_7031878287731294252.png",
+            "hint": "",
+            "tags": ""
+        }]
+    }
+}

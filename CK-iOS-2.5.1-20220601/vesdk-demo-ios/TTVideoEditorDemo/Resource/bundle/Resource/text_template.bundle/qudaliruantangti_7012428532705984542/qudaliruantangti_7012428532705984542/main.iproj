@@ -1,0 +1,98 @@
+{
+	"type":	"ImageProcessor",
+	"version":	"1.0",
+	"input_type":	1,
+	"processors":	[{
+			"guid":	"51EBDEB5-126A-4C76-A21A-837C9D43E9FC",
+			"type":	"Processor",
+			"name":	"TextTemplate",
+			"plugin":	"E8FF45CB-DE7A-4AAD-958A-C6E0AD4EB053",
+			"updateParams":	{
+			},
+			"nodeId":	232
+		}],
+	"graph":	{
+		"inId":	228,
+		"outId":	230,
+		"nodes":	[{
+				"type":	2,
+				"name":	"TextTemplate",
+				"id":	232,
+				"inPins":	[{
+						"name":	"",
+						"typeKey":	"In",
+						"type":	0,
+						"dataType":	1,
+						"id":	233,
+						"notUse":	false
+					}],
+				"outPins":	[{
+						"name":	"",
+						"typeKey":	"Out",
+						"type":	1,
+						"dataType":	1,
+						"id":	234,
+						"notUse":	false
+					}],
+				"enable":	true,
+				"noDisable":	true,
+				"showBuiltinGUI":	true,
+				"showCustomGUI":	true,
+				"pos":	[168, 6],
+				"processorGuid":	"51EBDEB5-126A-4C76-A21A-837C9D43E9FC",
+				"pluginGuid":	"E8FF45CB-DE7A-4AAD-958A-C6E0AD4EB053",
+				"inTextureArrayPins":	[]
+			}, {
+				"type":	1,
+				"name":	"Output",
+				"id":	230,
+				"inPins":	[{
+						"name":	"",
+						"typeKey":	"In",
+						"type":	0,
+						"dataType":	1,
+						"id":	231,
+						"notUse":	false
+					}],
+				"outPins":	[],
+				"enable":	true,
+				"noDisable":	false,
+				"showBuiltinGUI":	true,
+				"showCustomGUI":	false,
+				"pos":	[328, 7],
+				"processorGuid":	"",
+				"pluginGuid":	"",
+				"inTextureArrayPins":	[]
+			}, {
+				"type":	0,
+				"name":	"Input",
+				"id":	228,
+				"inPins":	[],
+				"outPins":	[{
+						"name":	"",
+						"typeKey":	"Out",
+						"type":	1,
+						"dataType":	1,
+						"id":	229,
+						"notUse":	false
+					}],
+				"enable":	true,
+				"noDisable":	false,
+				"showBuiltinGUI":	true,
+				"showCustomGUI":	false,
+				"pos":	[10, 10],
+				"processorGuid":	"",
+				"pluginGuid":	"",
+				"inTextureArrayPins":	[]
+			}],
+		"links":	[{
+				"id":	236,
+				"in":	234,
+				"out":	231
+			}, {
+				"id":	235,
+				"in":	229,
+				"out":	233
+			}]
+	}
+}

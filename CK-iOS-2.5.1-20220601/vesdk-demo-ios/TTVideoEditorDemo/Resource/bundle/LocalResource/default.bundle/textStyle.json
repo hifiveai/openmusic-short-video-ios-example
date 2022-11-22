@@ -1,0 +1,74 @@
+{
+  "alignType": 1,
+  "background": true,
+  "backgroundColor": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "boldWidth": 0.0,
+  "charSpacing": 0.0,
+  "effectPath": "",
+  "fallbackFontPathList": [],
+  "fontPath": "",
+  "fontSize": 15,
+  "innerPadding": 0.12,
+  "italicDegree": 0,
+  "ktvColor": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "ktvOutlineColor": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "ktvShadowColor": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "lineGap": 0.1,
+  "lineMaxWidth": -1.0,
+  "outline": true,
+  "outlineColor": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "outlineWidth": 0.0,
+  "shadow": false,
+  "shadowColor": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "shadowOffset": [
+    0.05662517,
+    -0.05662517
+  ],
+  "shadowSmoothing": 0.055549998,
+  "shapeFlipX": false,
+  "shapeFlipY": false,
+  "shapePath": "",
+  "text": "输入文字",
+  "textColor": [
+    1.0,
+    1.0,
+    1.0,
+    1.0
+  ],
+  "typeSettingKind": 0,
+  "underline": false,
+  "underlineOffset": 0.22,
+  "underlineWidth": 0.05,
+  "useEffectDefaultColor": true,
+  "version": "1"
+}

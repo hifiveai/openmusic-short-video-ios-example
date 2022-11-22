@@ -1,0 +1,50 @@
+{
+    "resource": {
+        "list": [
+            {
+                "name":"左对齐",
+                "path":"sticker1",
+                "icon":"align_left.png",
+                "alignType":0,
+                "typeSettingKind" : 0,
+            },
+            {
+                "name":"中对齐",
+                "path": "sticker2",
+                "icon":"align_middle.png",
+                "alignType":1,
+                "typeSettingKind" : 0,
+            },
+            {
+                "name":"右对齐",
+                "path": "sticker3",
+                "icon":"align_right.png",
+                "alignType":2,
+                "typeSettingKind" : 0,
+            },
+            {
+                "name":"上对齐",
+                "path":"sticker1",
+                "icon":"align_top.png",
+                "alignType":3,
+                "typeSettingKind" : 1,
+            },
+            {
+                "name":"竖中对齐",
+                "path": "sticker2",
+                "icon":"align_vertical_middle.png",
+                "alignType":1,
+                "typeSettingKind" : 1,
+            },
+            {
+                "name":"下对齐",
+                "path": "sticker3",
+                "icon":"align_bottom.png",
+                "alignType":4,
+                "typeSettingKind" : 1,
+            }
+        ]
+    },
+    "type": "text",
+    "version": "1.0"
+}

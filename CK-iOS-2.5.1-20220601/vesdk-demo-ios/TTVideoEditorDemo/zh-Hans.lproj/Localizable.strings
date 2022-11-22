@@ -1,0 +1,1500 @@
+
+"ck_ablum_not_supported" = "不支持调起相册";
+
+"ck_add" = "添加";
+
+"ck_add_adjust" = "添加调节";
+
+"ck_add_audio" = "添加音频";
+
+"ck_add_audio_record" = "添加录音";
+
+"ck_add_effect" = "添加特效";
+
+"ck_add_epilogue" = "添加片尾";
+
+"ck_add_filter" = "添加滤镜";
+
+"ck_add_image_sticker" = "添加贴纸";
+
+"ck_add_music" = "添加音乐";
+
+"ck_add_pip" = "添加画中画";
+
+"ck_add_sound_effect" = "添加音效";
+
+"ck_add_sticker" = "添加贴纸";
+
+"ck_add_text" = "添加文本";
+
+"ck_add_text_sticker" = "添加文本";
+
+"ck_adjust" = "调节";
+
+"ck_adjust_reset_content" = "确认重置所有参数吗？";
+
+"ck_adjust_reset_current_position_content" = "确定重置当前位置所有参数吗？";
+
+"ck_adjust_reset_title" = "重置参数";
+
+"ck_age" = "年龄";
+
+"ck_all_dir_name" = "所有内容";
+
+"ck_all_image" = "图片";
+
+"ck_all_video" = "视频";
+
+"ck_anger" = "生气";
+
+"ck_anim_all" = "组合动画";
+
+"ck_anim_duration" = "动画时长";
+
+"ck_anim_in" = "入场动画";
+
+"ck_anim_out" = "出场动画";
+
+"ck_animation" = "动画";
+
+"ck_animation_group" = "组合动画";
+
+"ck_animation_in" = "入场动画";
+
+"ck_animation_out" = "出场动画";
+
+"ck_animoji_boy" = "男孩";
+
+"ck_animoji_girl" = "女孩";
+
+"ck_applaud" = "鼓掌";
+
+"ck_applied_range" = "作用对象";
+
+"ck_apply_all" = "应用全部";
+
+"ck_apply_text_sticker_cover" = "添加文字";
+
+"ck_arrangement" = "排列";
+
+"ck_audio" = "音频";
+
+"ck_audio_downloading" = "音频下载中";
+
+"ck_audio_fade_in" = "淡入时长";
+
+"ck_audio_fade_out" = "淡出时长";
+
+"ck_audio_generate_success" = "音频已生成，请到音频模块查看";
+
+"ck_authentication_failed" = "鉴权出问题啦~";
+
+"ck_authorization_presetting_body" = "为更自由地选择创作素材，获得更丰富的视频效果，建议你允许访问所有照片";
+
+"ck_authorization_presetting_start" = "开始设置";
+
+"ck_authorization_presetting_title" = "想访问你的照片";
+
+"ck_auto_recognize_subtitle" = "自动识别字幕";
+
+"ck_back" = "返回";
+
+"ck_back_light" = "背光";
+
+"ck_back_off" = "退后";
+
+"ck_back_to_home" = "返回首页";
+
+"ck_basic" = "基础";
+
+"ck_beautify" = "美颜";
+
+"ck_beauty" = "颜值";
+
+"ck_beauty_body_arm_slim" = "手臂";
+
+"ck_beauty_body_breast_enlarge" = "丰胸";
+
+"ck_beauty_body_hip_enhance" = "翘臀";
+
+"ck_beauty_body_leg_slim" = "瘦腿";
+
+"ck_beauty_body_long_leg" = "长腿";
+
+"ck_beauty_body_neck_enhance" = "天鹅颈";
+
+"ck_beauty_body_shrink_head" = "小头";
+
+"ck_beauty_body_thin" = "瘦身";
+
+"ck_beauty_body_waist_slim" = "收腰";
+
+"ck_beauty_face_brighten_eye" = "亮眼";
+
+"ck_beauty_face_eye_plump" = "卧蚕";
+
+"ck_beauty_face_eye_single_to_double_eyelid" = "双眼皮";
+
+"ck_beauty_face_remove_pouch" = "黑眼圈";
+
+"ck_beauty_face_sharpen" = "锐化";
+
+"ck_beauty_face_smile_folds" = "法令纹";
+
+"ck_beauty_face_smooth" = "磨皮";
+
+"ck_beauty_face_whiten" = "美白";
+
+"ck_beauty_face_whiten_teeth" = "白牙";
+
+"ck_beauty_reshape_cheek" = "瘦颧骨";
+
+"ck_beauty_reshape_chin" = "下巴";
+
+"ck_beauty_reshape_dark_circle" = "黑眼圈";
+
+"ck_beauty_reshape_decree" = "法令纹";
+
+"ck_beauty_reshape_eye" = "大眼";
+
+"ck_beauty_reshape_eye_move" = "眼移动";
+
+"ck_beauty_reshape_eye_rotate" = "眼角度";
+
+"ck_beauty_reshape_eye_spacing" = "眼距";
+
+"ck_beauty_reshape_face_cut" = "窄脸";
+
+"ck_beauty_reshape_face_overall" = "瘦脸";
+
+"ck_beauty_reshape_face_small" = "小脸";
+
+"ck_beauty_reshape_forehead" = "额头";
+
+"ck_beauty_reshape_jaw" = "下颌骨";
+
+"ck_beauty_reshape_mouth_move" = "缩人中";
+
+"ck_beauty_reshape_mouth_smile" = "微笑";
+
+"ck_beauty_reshape_mouth_zoom" = "嘴型";
+
+"ck_beauty_reshape_nose_lean" = "瘦鼻";
+
+"ck_beauty_reshape_nose_long" = "长鼻";
+
+"ck_black" = "黑种人";
+
+"ck_blusher_mitao" = "蜜桃";
+
+"ck_blusher_qiaopi" = "俏皮";
+
+"ck_blusher_richang" = "日常";
+
+"ck_blusher_shaishang" = "晒伤";
+
+"ck_blusher_shaishanghong" = "晒伤红";
+
+"ck_blusher_tiancheng" = "甜橙";
+
+"ck_blusher_weixunfen" = "微醺";
+
+"ck_blusher_xinji" = "心机";
+
+"ck_blusher_yuanqiju" = "元气橘";
+
+"ck_bold_italic" = "粗斜体";
+
+"ck_brand_rec" = "车牌检测";
+
+"ck_brightness" = "亮度";
+
+"ck_brown" = "印度人";
+
+"ck_camera_effect" = "相机特效";
+
+"ck_cancel" = "取消";
+
+"ck_cant_play_video" = "没有可以播放的程序";
+
+"ck_canvas" = "画布";
+
+"ck_canvas_blur" = "画布模糊";
+
+"ck_canvas_color" = "画布颜色";
+
+"ck_canvas_style" = "画布样式";
+
+"ck_car_blur" = "是否模糊";
+
+"ck_car_detect" = "车辆检测";
+
+"ck_car_light" = "是否明亮";
+
+"ck_cat" = "猫";
+
+"ck_change_filter" = "切换滤镜";
+
+"ck_change_scan_mode" = "切换扫描模式";
+
+"ck_change_voice" = "变声";
+
+"ck_choose" = "选择一张人脸图";
+
+"ck_click_too_quick" = "点击太频繁了";
+
+"ck_close" = "关闭";
+
+"ck_closing_eye" = "眨眼";
+
+"ck_cloudy" = "多云";
+
+"ck_color_fade" = "褪色";
+
+"ck_color_temperature" = "色温";
+
+"ck_compose" = "合成";
+
+"ck_compose_failed" = "合成失败ret:";
+
+"ck_confirm" = "确定";
+
+"ck_confuse" = "疑惑";
+
+"ck_content_will_disappear" = "退出后编辑的内容将会消失";
+
+"ck_continue_edit" = "继续编辑";
+
+"ck_contrast" = "对比度";
+
+"ck_copy" = "复制";
+
+"ck_cost" = "耗时";
+
+"ck_cost_default" = "耗时:0ms";
+
+"ck_count_string" = "个";
+
+"ck_crop" = "裁剪";
+
+"ck_current_face" = "当前人脸数";
+
+"ck_current_no_more" = "暂时没有更多了";
+
+"ck_curve_speed" = "曲线变速";
+
+"ck_curve_speed_dst_duration" = "%.1f";
+
+"ck_curve_speed_src_duration" = "时长%.1f";
+
+"ck_curve_speed_value" = "%1$.1f X";
+
+"ck_delete" = "删除";
+
+"ck_delete_adjust" = "删除调节";
+
+"ck_delete_draft_text" = "是否删除该草稿？";
+
+"ck_delete_draft_title" = "删除草稿";
+
+"ck_delete_filter" = "删除滤镜";
+
+"ck_delete_keyframe" = "删除关键帧";
+
+"ck_detect" = "检测";
+
+"ck_detect_count" = "总检测次数";
+
+"ck_dist" = "距离(m):";
+
+"ck_dog" = "狗";
+
+"ck_done" = "完成";
+
+"ck_download_fail" = "下载失败";
+
+"ck_download_sticker" = "下载贴纸";
+
+"ck_download_success" = "下载成功";
+
+"ck_drag_preview_music" = "拖动试听音乐";
+
+"ck_drag_select_show_region" = "拖动或双指缩放调整画面";
+
+"ck_duet" = "合拍";
+
+"ck_duration" = "时长";
+
+"ck_dynamic_action_tip" = "与手机保持一定距离，\n直到轮廓内可以看见全身";
+
+"ck_edit" = "编辑";
+
+"ck_edit_clip" = "剪辑";
+
+"ck_edit_image_cover" = "点击编辑";
+
+"ck_effect" = "特效";
+
+"ck_enable" = "开启";
+
+"ck_engine_error_no_initialization" = "语音引擎未初始化，请初始化后重试";
+
+"ck_enter_text" = "输入文字";
+
+"ck_epilogue" = "片尾";
+
+"ck_exclusive_tip" = "重新打开应用查看效果";
+
+"ck_exit" = "退出";
+
+"ck_expression" = "表情";
+
+"ck_eye_dadizong" = "大地棕";
+
+"ck_eye_jiaotangzong" = "焦糖棕";
+
+"ck_eye_meizihong" = "梅子红";
+
+"ck_eye_naichase" = "奶茶色";
+
+"ck_eye_qizhifen" = "气质粉";
+
+"ck_eye_shaonvfen" = "少女粉";
+
+"ck_eye_wanxiahong" = "晚霞红";
+
+"ck_eye_yanxunzong" = "烟熏棕";
+
+"ck_eye_yuanqiju" = "元气橘";
+
+"ck_eye_ziranlan" = "自然蓝";
+
+"ck_eyebrow_BKO1" = "BK01";
+
+"ck_eyebrow_BKO2" = "BK02";
+
+"ck_eyebrow_BKO3" = "BK03";
+
+"ck_eyebrow_BRO1" = "BR01";
+
+"ck_eyebrow_chunhei" = "纯黑";
+
+"ck_eyebrow_danhui" = "淡灰";
+
+"ck_eyebrow_ziranhei" = "自然黑";
+
+"ck_eyelash_nongmi" = "浓密";
+
+"ck_eyelash_shanxing" = "扇形";
+
+"ck_eyelash_wumei" = "妩媚";
+
+"ck_face_106_title" = "人脸106点";
+
+"ck_face_280_desc" = "眼球+嘴唇";
+
+"ck_face_280_title" = "人脸280点";
+
+"ck_face_attr_desc" = "属性表情";
+
+"ck_face_attr_title" = "人脸属性";
+
+"ck_face_cluster_class_name" = "人物";
+
+"ck_face_cluster_clean" = "关闭";
+
+"ck_face_cluster_null_class_name" = "未识别人物";
+
+"ck_face_cluster_start" = "开始聚类";
+
+"ck_face_cluster_upload" = "上传图片";
+
+"ck_face_count" = "当前人脸数";
+
+"ck_face_more_than_one" = "检测到超过一张人脸";
+
+"ck_face_verify_detect" = "检测到相同人脸";
+
+"ck_face_verify_no_detect" = "未检测到相同人脸";
+
+"ck_face_verify_none_desc" = "关闭对比";
+
+"ck_face_verify_none_title" = "无";
+
+"ck_face_verify_upload_desc" = "上传对比照片";
+
+"ck_face_verify_upload_title" = "上传照片";
+
+"ck_facial_1" = "修容01";
+
+"ck_facial_2" = "修容02";
+
+"ck_facial_3" = "修容03";
+
+"ck_facial_4" = "修容04";
+
+"ck_fade" = "淡化";
+
+"ck_fail_to_split" = "定格失败:拆分视频失败";
+
+"ck_fear" = "害怕";
+
+"ck_female" = "女";
+
+"ck_file_check_fail" = "文件检查失败";
+
+"ck_file_is_empty" = "定格失败:素材为空";
+
+"ck_filter" = "滤镜";
+
+"ck_filter_andiao" = "暗调";
+
+"ck_filter_beihaidao" = "北海道";
+
+"ck_filter_campan" = "桔梗";
+
+"ck_filter_chalk" = "柔白";
+
+"ck_filter_chuanwei" = "川味";
+
+"ck_filter_chujian" = "初见";
+
+"ck_filter_cream" = "奶油";
+
+"ck_filter_gaojihui" = "高级灰";
+
+"ck_filter_haibianrenxiang" = "海边人像";
+
+"ck_filter_haidao" = "海岛";
+
+"ck_filter_heibai" = "黑白";
+
+"ck_filter_hongchun" = "红唇";
+
+"ck_filter_hongsefugu" = "红色复古";
+
+"ck_filter_hongzong" = "红棕";
+
+"ck_filter_jiaopian" = "胶片";
+
+"ck_filter_jiazhou" = "加州";
+
+"ck_filter_jingmi" = "静谧";
+
+"ck_filter_jiuri" = "旧日";
+
+"ck_filter_julandiao" = "橘蓝调";
+
+"ck_filter_landiaojiaopian" = "蓝调胶片";
+
+"ck_filter_lengyang" = "冷氧";
+
+"ck_filter_lianaichaotian" = "恋爱超甜";
+
+"ck_filter_lolita" = "洛丽塔";
+
+"ck_filter_lvtu" = "旅途";
+
+"ck_filter_makalong" = "马卡龙";
+
+"ck_filter_meishijiaopian" = "美式胶片";
+
+"ck_filter_mitao" = "蜜桃";
+
+"ck_filter_musi" = "浅暖";
+
+"ck_filter_naicha" = "奶茶";
+
+"ck_filter_normal" = "正常";
+
+"ck_filter_nuanhuang" = "暖黄";
+
+"ck_filter_nuanyang" = "暖阳";
+
+"ck_filter_oxgen" = "氧气";
+
+"ck_filter_paomo" = "泡沫";
+
+"ck_filter_qianxia" = "浅夏";
+
+"ck_filter_qingtou" = "清透";
+
+"ck_filter_riza" = "日杂";
+
+"ck_filter_shise" = "食色";
+
+"ck_filter_soft" = "soft";
+
+"ck_filter_suda" = "苏打";
+
+"ck_filter_tuise" = "褪色";
+
+"ck_filter_wenrou" = "温柔";
+
+"ck_filter_wuyu" = "物语";
+
+"ck_filter_xiyang" = "夕阳";
+
+"ck_filter_xiyatu" = "西雅图";
+
+"ck_filter_yese" = "夜色";
+
+"ck_filter_yinhua" = "樱花";
+
+"ck_filter_ziran2" = "自然2";
+
+"ck_flip" = "翻转";
+
+"ck_font" = "字体";
+
+"ck_free_crop_mode" = "自由";
+
+"ck_free_duration" = "自由时长";
+
+"ck_freeze" = "定格";
+
+"ck_freeze_failed" = "定格失败";
+
+"ck_gaze_inside" = "在屏幕中";
+
+"ck_gender" = "性别";
+
+"ck_general_object_type" = "类型";
+
+"ck_gesture" = "手势:";
+
+"ck_gif" = "GIF";
+
+"ck_global" = "全局";
+
+"ck_hair_anlan" = "暗蓝";
+
+"ck_hair_molv" = "墨绿";
+
+"ck_hair_shenzong" = "深棕";
+
+"ck_hand_detect_title" = "手势检测";
+
+"ck_happiness" = "开心值";
+
+"ck_happy" = "高兴";
+
+"ck_has_apply_all" = "已应用到全部";
+
+"ck_has_saved_local_and_draft" = "已保存到本地和草稿箱";
+
+"ck_head_segment_desc" = "人头分割算法";
+
+"ck_head_segment_title" = "人头分割";
+
+"ck_highlight" = "高光";
+
+"ck_hold_to_record" = "按住录音";
+
+"ck_home_cut_same" = "剪同款";
+
+"ck_home_drafts" = "草稿箱";
+
+"ck_home_edit" = "视频创作";
+
+"ck_home_hepai" = "视频合拍";
+
+"ck_home_one" = "一键成片";
+
+"ck_home_record" = "视频拍摄";
+
+"ck_hot" = "热门";
+
+"ck_hue" = "色调";
+
+"ck_human" = "人";
+
+"ck_image_sticker" = "贴纸";
+
+"ck_import_editing" = "导入剪辑";
+
+"ck_import_from_album" = "相册导入";
+
+"ck_increase_zoom" = "变焦+0.1";
+
+"ck_indoor_weak" = "室内 弱光";
+
+"ck_indoor_white" = "室内 白";
+
+"ck_indoor_yellow" = "室内 黄";
+
+"ck_init_hand_failed" = "手势初始化失败";
+
+"ck_invalid_license" = "无效的授权文件";
+
+"ck_invalid_license_file" = "无效的授权文件";
+
+"ck_jump_jack" = "开合跳";
+
+"ck_keyframe" = "关键帧";
+
+"ck_left_eye_open" = "左眼";
+
+"ck_library_name" = "媒体选择器";
+
+"ck_license_check_fail" = "授权失败";
+
+"ck_light_cls_credibility" = "可信度";
+
+"ck_light_cls_type" = "类型";
+
+"ck_light_sensation" = "曝光";
+
+"ck_lip_doushafen" = "豆沙粉";
+
+"ck_lip_fuguhong" = "复古红";
+
+"ck_lip_fuguhong_3_8" = "复古红(3.8)";
+
+"ck_lip_huluopohong" = "胡萝卜红";
+
+"ck_lip_huoliju" = "活力橘";
+
+"ck_lip_meizise" = "梅子色";
+
+"ck_lip_shanhuse" = "珊瑚色";
+
+"ck_lip_shaonvfen" = "少女粉";
+
+"ck_lip_sironghong" = "丝绒红";
+
+"ck_lip_xiguahong" = "西瓜红";
+
+"ck_lip_xiyouse" = "西柚色";
+
+"ck_lip_yingsuhong" = "罂粟红";
+
+"ck_lip_yuanqiju" = "元气橘";
+
+"ck_lip_zangjuse" = "脏橘色";
+
+"ck_list_empty" = "列表数据为空";
+
+"ck_loading" = "加载中";
+
+"ck_local" = "本地";
+
+"ck_local_music" = "本地音乐";
+
+"ck_local_music_list_add" = "添加 Apple music 中的本地音乐";
+
+"ck_local_music_list_empty" = "本地音乐数据为空…";
+
+"ck_log_draft_recover_failed" = "恢复草稿出错!,state :";
+
+"ck_logo" = "字节跳动 人工智能";
+
+"ck_main_track_video" = "主视频";
+
+"ck_makeup_blusher" = "腮红";
+
+"ck_makeup_eye" = "眼影";
+
+"ck_makeup_eyebrow" = "眉毛";
+
+"ck_makeup_eyelash" = "睫毛";
+
+"ck_makeup_facial" = "阴影";
+
+"ck_makeup_hair" = "染发";
+
+"ck_makeup_lip" = "口红";
+
+"ck_makeup_pupil" = "美瞳";
+
+"ck_male" = "男";
+
+"ck_material_type_error" = "素材类型错误";
+
+"ck_mix_mode" = "混合模式";
+
+"ck_mouth_open" = "嘴";
+
+"ck_msg_amount_limit" = "已达到选择数量上限";
+
+"ck_msg_size_limit" = "请压缩和剪切后上传，文件最大只支持";
+
+"ck_music_collection" = "音乐合集";
+
+"ck_music_library" = "音乐库";
+
+"ck_mute_original_audio" = "关闭原声";
+
+"ck_nausea" = "沮丧";
+
+"ck_network_error" = "网络连接失败，请检查网络设置";
+
+"ck_network_error_click_retry" = "网络异常，点击重试";
+
+"ck_network_music_list_empty" = "音乐正在补充中…";
+
+"ck_night" = "夜晚";
+
+"ck_no" = "否";
+
+"ck_no_face_detected" = "未检测到人脸";
+
+"ck_no_timing" = "无定时";
+
+"ck_nod" = "点头";
+
+"ck_none" = "无";
+
+"ck_normal_speed" = "常规变速";
+
+"ck_not_select_slot" = "定格失败:光标请移动到选中的素材内";
+
+"ck_notice" = "提示";
+
+"ck_opacity" = "不透明度";
+
+"ck_open_car_detect_fist" = "请先打开车辆检测开关";
+
+"ck_open_face106_fist" = "请先打开人脸106关键点检测开关";
+
+"ck_open_mouth" = "张嘴";
+
+"ck_original_picture" = "原图";
+
+"ck_pet_face_title" = "宠物脸";
+
+"ck_pet_face_type" = "宠物类型";
+
+"ck_pip" = "画中画";
+
+"ck_pitch" = "俯仰角";
+
+"ck_poker_face" = "正常";
+
+"ck_portait_matting_desc" = "人体分割算法";
+
+"ck_portait_matting_title" = "人体分割";
+
+"ck_pout" = "嘟嘴";
+
+"ck_preview" = "预览";
+
+"ck_props" = "道具";
+
+"ck_punching" = "击拳";
+
+"ck_pupil_babizi" = "芭比紫";
+
+"ck_pupil_chujianhui" = "初见灰";
+
+"ck_pupil_hunxuelan" = "混血蓝";
+
+"ck_pupil_hunxuelv" = "混血绿";
+
+"ck_pupil_hunxuezong" = "混血棕";
+
+"ck_pupil_kekezong" = "可可棕";
+
+"ck_pupil_mitaofen" = "蜜桃粉";
+
+"ck_pupil_shuiguanghei" = "水光黑";
+
+"ck_pupil_xingkonglan" = "星空蓝";
+
+"ck_push_up" = "俯卧撑";
+
+"ck_race" = "肤色";
+
+"ck_raise_eyebrow" = "挑眉";
+
+"ck_ratio_origin" = "原始";
+
+"ck_ratio_origin_1_16" = "原始-9:16";
+
+"ck_read_external_storage" = "需要打开读取存储权限";
+
+"ck_recoding" = "正在录音";
+
+"ck_recognize_clip_no_volume" = "未能识别到有声音的音视频";
+
+"ck_recognize_clip_too_short" = "识别片段时长需大于1秒";
+
+"ck_recognize_failed_please_retry" = "识别失败，请重试";
+
+"ck_recognize_lyric" = "识别歌词";
+
+"ck_recognize_ongoing" = "字幕识别中...";
+
+"ck_recognize_success" = "识别成功，已自动生成字幕";
+
+"ck_recognize_support_chinese_song_only" = "暂时仅支持国语歌曲";
+
+"ck_record" = "拍摄";
+
+"ck_record_audio" = "录音";
+
+"ck_record_audio_too_short" = "录音时长过短";
+
+"ck_record_insert" = "录音%s";
+
+"ck_record_photo" = "拍照";
+
+"ck_record_video" = "摄像";
+
+"ck_redo_keyframe_success" = "恢复关键帧成功";
+
+"ck_reduce_zoom" = "变焦-0.1";
+
+"ck_remove" = "删除";
+
+"ck_remove_current_lyric" = "同时清空已有歌词";
+
+"ck_remove_current_subtitle" = "同时清空已有字幕";
+
+"ck_replace" = "替换";
+
+"ck_replace_effect" = "替换特效";
+
+"ck_reset" = "重置";
+
+"ck_resource_fail" = "资源准备失败";
+
+"ck_resource_initializing" = "资源初始化中请稍候";
+
+"ck_resource_prepare" = "资源准备中";
+
+"ck_resource_unzip_failed" = "资源解压失败！";
+
+"ck_reverse" = "倒放";
+
+"ck_reverse_play_cancel" = "取消倒放";
+
+"ck_reverse_play_success" = "倒放成功";
+
+"ck_reverse_video_failed" = "倒放视频生成失败";
+
+"ck_reversing" = "倒放中";
+
+"ck_reversing_video" = "生成倒放视频中...";
+
+"ck_right_eye_open" = "右眼";
+
+"ck_roll" = "翻滚角";
+
+"ck_rotate" = "旋转";
+
+"ck_row_fast" = "半身快速划船";
+
+"ck_row_fast_full" = "全身快速划船";
+
+"ck_row_slow" = "半身慢速划船";
+
+"ck_row_slow_full" = "全身慢速划船";
+
+"ck_sad" = "悲伤";
+
+"ck_saturation" = "饱和度";
+
+"ck_save" = "保存";
+
+"ck_save_content_hint" = "创作尚未保存，是否存入 草稿箱？";
+
+"ck_save_cover" = "保存";
+
+"ck_save_success" = "已保存:";
+
+"ck_seek_choose_cover" = "滑动选择封面";
+
+"ck_seeting_face_attribute" = "人脸属性";
+
+"ck_seeting_face_attribute_desc" = "人脸属性及表情";
+
+"ck_segment_hair_desc" = "染发算法";
+
+"ck_segment_hair_title" = "染发";
+
+"ck_segment_segment_desc" = "人体分割算法";
+
+"ck_segment_segment_title" = "人体分割";
+
+"ck_select" = "选择";
+
+"ck_select_image_title" = "选择图片";
+
+"ck_select_null" = "请选择文件";
+
+"ck_select_title" = "选择图片和视频";
+
+"ck_select_video_title" = "选择视频";
+
+"ck_selector_select_count" = "已选择%s个素材";
+
+"ck_set_cover" = "设置\n封面";
+
+"ck_setting_beauty" = "美颜";
+
+"ck_setting_big_eye" = "大眼";
+
+"ck_setting_blush" = "腮红";
+
+"ck_setting_compare" = "对比";
+
+"ck_setting_exclusive" = "互斥";
+
+"ck_setting_face" = "人脸106点";
+
+"ck_setting_face_desc" = "人脸106关键点跟踪及人脸动作识别";
+
+"ck_setting_face_extra" = "人脸280点";
+
+"ck_setting_face_extra_desc" = "人脸280关键点：在106点基础上增加眼球、嘴唇关键点";
+
+"ck_setting_face_lift" = "瘦脸";
+
+"ck_setting_face_verify" = "人脸比对";
+
+"ck_setting_filter_intensity" = "强度";
+
+"ck_setting_hair" = "染发";
+
+"ck_setting_hair_desc" = "染发算法";
+
+"ck_setting_hand" = "人手关键点跟踪及手势检测";
+
+"ck_setting_human_dist" = "距离估计";
+
+"ck_setting_human_dist_desc" = "人脸到摄像头距离";
+
+"ck_setting_makeup" = "美妆";
+
+"ck_setting_red_lip" = "唇色";
+
+"ck_setting_skeleton" = "骨骼检测";
+
+"ck_setting_skeleton_desc" = "实时检测人体17关键点";
+
+"ck_setting_skin_grinding" = "磨皮";
+
+"ck_setting_skin_sharpen" = "锐化";
+
+"ck_setting_skin_whitening" = "美白";
+
+"ck_shadow" = "阴影";
+
+"ck_shake_head" = "摇头";
+
+"ck_sharpe" = "锐化";
+
+"ck_similarity" = "相似度";
+
+"ck_similarity_default" = "相似度:0.00";
+
+"ck_sit_up" = "仰卧起坐";
+
+"ck_size" = "尺寸";
+
+"ck_skeleton_detect_desc" = "人体关键点跟踪";
+
+"ck_skeleton_detect_title" = "骨骼检测";
+
+"ck_smooth_skin" = "磨皮";
+
+"ck_sound_effect" = "音效";
+
+"ck_speed" = "速度";
+
+"ck_speed_extremely_quick" = "极快";
+
+"ck_speed_extremely_slow" = "极慢";
+
+"ck_speed_faster" = "较快";
+
+"ck_speed_normal" = "正常";
+
+"ck_speed_quick" = "快";
+
+"ck_speed_slow" = "慢";
+
+"ck_speed_slower" = "较慢";
+
+"ck_speed_standard" = "标准";
+
+"ck_split" = "拆分";
+
+"ck_squat_front" = "正面下蹲";
+
+"ck_squat_profile" = "侧面下蹲";
+
+"ck_standard" = "标准";
+
+"ck_start" = "开始创作";
+
+"ck_start_recognizing" = "开始识别";
+
+"ck_std_check_and_retry" = "请检查网络链接后重试";
+
+"ck_std_network_error" = "网络链接错误";
+
+"ck_std_retry" = "重试";
+
+"ck_sticker" = "贴纸";
+
+"ck_sticker_2d" = "2D";
+
+"ck_sticker_3d" = "3D";
+
+"ck_sticker_animation" = "贴纸动画";
+
+"ck_sticker_baibianfaxing" = "百变发型";
+
+"ck_sticker_biaobaqixi" = "表白七夕";
+
+"ck_sticker_chitushaonv" = "吃土少女";
+
+"ck_sticker_cinamiheti" = "茨纳米丶合体";
+
+"ck_sticker_complex" = "复杂";
+
+"ck_sticker_dianjita" = "电吉他";
+
+"ck_sticker_duobibingdu" = "躲避病毒";
+
+"ck_sticker_eldermakup" = "老年妆";
+
+"ck_sticker_gongzhumianju" = "公主面具";
+
+"ck_sticker_haoqilongbao" = "好奇龙宝";
+
+"ck_sticker_heimaoyanjing" = "黑猫眼镜";
+
+"ck_sticker_huahua" = "花花";
+
+"ck_sticker_huanletuchiluobo" = "欢乐兔吃萝卜";
+
+"ck_sticker_huanlongshu" = "唤龙术";
+
+"ck_sticker_jiamian" = "假面";
+
+"ck_sticker_jiancedanshenyinyuan" = "检测单身姻缘";
+
+"ck_sticker_jijiantuer" = "极简兔耳";
+
+"ck_sticker_katongnan" = "卡通男";
+
+"ck_sticker_katongnv" = "卡通女";
+
+"ck_sticker_kejiganqueaixiong" = "科技感缺爱熊";
+
+"ck_sticker_kidmakup" = "小孩妆";
+
+"ck_sticker_konglongceshi" = "恐龙测试";
+
+"ck_sticker_konglongshiguangji" = "恐龙时光机";
+
+"ck_sticker_kongquegongzhu" = "孔雀公主";
+
+"ck_sticker_landiaoxueying" = "蓝调雪影";
+
+"ck_sticker_leisituer" = "蕾丝兔耳";
+
+"ck_sticker_lizishengdan" = "粒子圣诞";
+
+"ck_sticker_load_fail" = "贴纸加载失败";
+
+"ck_sticker_load_success" = "贴纸加载成功";
+
+"ck_sticker_luzhihuakuang" = "录制画框";
+
+"ck_sticker_maobing" = "猫丙";
+
+"ck_sticker_meihaoxinqing" = "美好心情";
+
+"ck_sticker_mengguiyaotang" = "萌鬼要糖";
+
+"ck_sticker_merry_christamas" = "圣诞老人";
+
+"ck_sticker_merry_christamas_tip" = "扫描指定目标出现动画";
+
+"ck_sticker_mofabaoshi" = "魔法宝石";
+
+"ck_sticker_nanguagungun" = "南瓜滚滚";
+
+"ck_sticker_nuannuandoupeng" = "暖暖斗篷";
+
+"ck_sticker_parse_fail" = "贴纸ID解析失败";
+
+"ck_sticker_qianduoduo" = "钱多多";
+
+"ck_sticker_qianshuiting" = "潜水艇";
+
+"ck_sticker_qrcode" = "扫码体验Creator";
+
+"ck_sticker_shangke" = "上课啦";
+
+"ck_sticker_shengrikuaile" = "生日快乐";
+
+"ck_sticker_shenshi" = "绅士";
+
+"ck_sticker_shuihaimeigeqiutian" = "谁还没个秋天";
+
+"ck_sticker_shuiliandong" = "水帘洞";
+
+"ck_sticker_tiaowuhuoji" = "会跳舞的火鸡";
+
+"ck_sticker_tip_baibianfaxing" = "点头";
+
+"ck_sticker_tip_biaobaqixi" = "比心试试";
+
+"ck_sticker_tip_cinamiheti" = "伸手眨眼";
+
+"ck_sticker_tip_dianjita" = "和猫一起";
+
+"ck_sticker_tip_haoqilongbao" = "比 OK 手势";
+
+"ck_sticker_tip_huahua" = "挑眉试试";
+
+"ck_sticker_tip_huanlonghsu" = "先抬头后张嘴";
+
+"ck_sticker_tip_invite_friends" = "邀请其他小伙伴一起试试";
+
+"ck_sticker_tip_jiamian" = "挡脸换面具";
+
+"ck_sticker_tip_jiancedanshenyinyuan" = "伸手";
+
+"ck_sticker_tip_kejiganqueaixiong" = "眨眼试试";
+
+"ck_sticker_tip_konglongceshi" = "眨眼点头";
+
+"ck_sticker_tip_konglongshiguangji" = "点头";
+
+"ck_sticker_tip_kongquegongzhu" = "张张手秒变孔雀公主";
+
+"ck_sticker_tip_landiaoxueying" = "冬天来啦，让我们一起拍起来";
+
+"ck_sticker_tip_lizishengdan" = "比心召唤麋鹿";
+
+"ck_sticker_tip_luzhihuakuang" = "点击屏幕";
+
+"ck_sticker_tip_meihaoxinqing" = "微笑";
+
+"ck_sticker_tip_mengguiyaotang" = "五指张开";
+
+"ck_sticker_tip_mofabaoshi" = "五指张开，握拳";
+
+"ck_sticker_tip_nuannuandoupeng" = "嘟嘴";
+
+"ck_sticker_tip_qianduoduo" = "比手枪";
+
+"ck_sticker_tip_qianshuiting" = "移动脸部躲避障碍";
+
+"ck_sticker_tip_shangke" = "点头";
+
+"ck_sticker_tip_shuihaimeigeqiutian" = "张嘴打喷嚏";
+
+"ck_sticker_tip_shuiliandong" = "伸手、摇头、点头";
+
+"ck_sticker_tip_snap_with_cats" = "和猫一起拍吧";
+
+"ck_sticker_tip_tiaowuhuoji" = "对着屏幕开一枪试试";
+
+"ck_sticker_tip_try_blink" = "眨眼试试";
+
+"ck_sticker_tip_try_nod" = "点头试试";
+
+"ck_sticker_tip_try_open_mouth" = "张嘴试试";
+
+"ck_sticker_tip_tryshoe" = "后置摄像头对着脚试试";
+
+"ck_sticker_tip_weilandongrizhuang" = "眨眼嘟嘴试试哦";
+
+"ck_sticker_tip_xiaribingshuang" = "伸出手掌";
+
+"ck_sticker_tip_xiatiandefeng" = "摇头";
+
+"ck_sticker_tip_yanlidoushini" = "眨眼试试";
+
+"ck_sticker_tip_zhuluojimaoxian" = "摇头变身不同恐龙";
+
+"ck_sticker_tip_zisemeihuo" = "点头眨眼";
+
+"ck_sticker_tryshoe01" = "试鞋1";
+
+"ck_sticker_tryshoe02" = "试鞋2";
+
+"ck_sticker_tryshoe03" = "试鞋3";
+
+"ck_sticker_weilandongrizhuang" = "蔚蓝冬日妆";
+
+"ck_sticker_without_license" = "素材未发现授权文件";
+
+"ck_sticker_wochaotian" = "我超甜";
+
+"ck_sticker_xiaribingshuang" = "冰爽夏日";
+
+"ck_sticker_xiatiandefeng" = "夏天的风";
+
+"ck_sticker_xuyuanping" = "许愿瓶";
+
+"ck_sticker_yanlidoushini" = "眼里都是你";
+
+"ck_sticker_zhaocaimao" = "招财猫";
+
+"ck_sticker_zhuluojimaoxian" = "侏罗纪冒险";
+
+"ck_sticker_zhutouzhuer" = "猪头猪耳";
+
+"ck_sticker_zisemeihuo" = "紫色魅惑";
+
+"ck_student_id_ocr_op" = "学号识别";
+
+"ck_student_id_ocr_title" = "学号: ";
+
+"ck_sunny" = "晴朗";
+
+"ck_surprise" = "惊讶";
+
+"ck_system" = "系统";
+
+"ck_tab_body" = "人体";
+
+"ck_tab_body_cutout" = "人体分割";
+
+"ck_tab_car" = "车辆";
+
+"ck_tab_concentration" = "专注度";
+
+"ck_tab_face" = "人脸";
+
+"ck_tab_face_attr" = "人脸属性";
+
+"ck_tab_face_beautification" = "美颜";
+
+"ck_tab_face_beauty_body" = "美体";
+
+"ck_tab_face_beauty_reshape" = "微整形";
+
+"ck_tab_face_cluster" = "人脸聚类";
+
+"ck_tab_face_makeup" = "补妆";
+
+"ck_tab_face_verify" = "人脸比对";
+
+"ck_tab_filter" = "滤镜";
+
+"ck_tab_gaze" = "视线检测";
+
+"ck_tab_general_object" = "通用物体检测";
+
+"ck_tab_hair_cutout" = "头发分割";
+
+"ck_tab_hand" = "手势";
+
+"ck_tab_human_dist" = "距离估计";
+
+"ck_tab_light_cls" = "光线识别";
+
+"ck_tab_pet_face" = "宠物脸";
+
+"ck_tab_segmentation" = "分割";
+
+"ck_tab_sticker" = "贴纸";
+
+"ck_tab_student_id_ocr" = "学号识别";
+
+"ck_tab_student_id_ocr_test" = "学号测试";
+
+"ck_tab_video_cls" = "视频分类";
+
+"ck_test" = "测试";
+
+"ck_text" = "文本";
+
+"ck_text_anim_duration" = "动画时长";
+
+"ck_text_anim_in" = "入场动画";
+
+"ck_text_anim_loop" = "循环动画";
+
+"ck_text_anim_out" = "出场动画";
+
+"ck_text_anim_quick" = "快";
+
+"ck_text_anim_slow" = "慢";
+
+"ck_text_anima" = "动画";
+
+"ck_text_background" = "底色";
+
+"ck_text_border" = "描边";
+
+"ck_text_bubble" = "气泡";
+
+"ck_text_flower" = "花字";
+
+"ck_text_keyboard" = "键盘";
+
+"ck_text_reading" = "文本朗读";
+
+"ck_text_sticker_char_spacing" = "字间距";
+
+"ck_text_sticker_line_gap" = "行间距";
+
+"ck_text_sticker_outline_width" = "描边粗细";
+
+"ck_text_sticker_shadow_angle" = "角度";
+
+"ck_text_sticker_shadow_offset" = "距离";
+
+"ck_text_sticker_shadow_smoothing" = "模糊度";
+
+"ck_text_sticker_transparency" = "透明度";
+
+"ck_text_style" = "样式";
+
+"ck_text_template" = "文字模板";
+
+"ck_text_template_atmosphere" = "氛围";
+
+"ck_text_template_base" = "基础";
+
+"ck_text_template_click" = "点击编辑";
+
+"ck_text_template_hot" = "热门";
+
+"ck_text_template_select" = "选择模板";
+
+"ck_text_word" = "文字";
+
+"ck_tip_close_animoji_first" = "请先关闭 animoji";
+
+"ck_tip_close_arscan_first" = "请先关闭 扫一扫";
+
+"ck_tip_close_sticker_first" = "请先关闭贴纸";
+
+"ck_tips_add_effect_track_success" = "添加特效轨道成功";
+
+"ck_tips_create_workspace_failed" = "创建工作目录失败";
+
+"ck_tips_current_position_split_fail" = "当前位置不可拆分";
+
+"ck_tips_delete_audio_track_failed" = "删除音轨失败";
+
+"ck_tips_draft_close_failed" = "草稿文件关闭出错";
+
+"ck_tips_draft_not_exist" = "草稿文件不存在";
+
+"ck_tips_draft_recover_failed" = "恢复草稿出错!";
+
+"ck_tips_draft_save_failed" = "保存草稿出错";
+
+"ck_tips_draft_save_success" = "草稿保存成功";
+
+"ck_tips_draft_write_failed" = "草稿写入出错";
+
+"ck_tips_license_expired" = "鉴权已到期n请联系技术同学续签";
+
+"ck_tips_main_track_must_have_material" = "主轨至少保留一个素材";
+
+"ck_tips_material_not_supported" = "所选素材暂不支持导入";
+
+"ck_tips_network_error" = "网络异常，请重试";
+
+"ck_tips_not_enough_spacing" = "特效与结尾间距不足，无法复制";
+
+"ck_tips_nothing_to_recover" = "没有可恢复的了";
+
+"ck_tips_nothing_to_undo" = "没有可撤回的了";
+
+"ck_tips_only_support_video" = "只支持视频";
+
+"ck_tips_permission_granted" = "已给与权限，请重新进入";
+
+"ck_tips_permission_require" = "为保证功能正常使用，请确保打开所需权限";
+
+"ck_tips_please_click_video_btn" = "请先点击视频按钮";
+
+"ck_tips_please_enter_suffix" = "请输入图片及后缀名";
+
+"ck_tips_reached_recording_time" = "达到录制时长";
+
+"ck_tips_reached_upper_limit" = "添加已达最大数量";
+
+"ck_tips_res_download_failed" = "资源下载失败，请重试！";
+
+"ck_tips_resource_copying" = "资源复制中...";
+
+"ck_tips_resource_copying_to_sdcard" = "正在复制资源到 SD 卡，请稍后，复制完成后会自动跳转到编辑页面";
+
+"ck_tips_resource_loading" = "加载中，请等待...";
+
+"ck_tips_save_album_success" = "成功保存到系统相册";
+
+"ck_tips_selected_file_not_exist" = "所指文件不存在";
+
+"ck_tips_submitted_too_often" = "提交太频繁了";
+
+"ck_tips_the_material_not_supported" = "该素材暂不支持导入";
+
+"ck_tips_too_many_pip" = "继续添加更多画中画视频可能会影响预览体验";
+
+"ck_tone_change_speed" = "声调变速";
+
+"ck_total_verify" = "总检测次数";
+
+"ck_transition" = "转场";
+
+"ck_transition_duration" = "转场时长";
+
+"ck_undo_keyframe_success" = "撤销关键帧成功";
+
+"ck_unip_fail" = "解压失败";
+
+"ck_unknown" = "未知";
+
+"ck_unmute_original_audio" = "开启原声";
+
+"ck_unzip" = "解压";
+
+"ck_unzip_done" = "解压完成，耗时：";
+
+"ck_use" = "使用";
+
+"ck_video" = "视频";
+
+"ck_video_cls_no_results" = "无结果";
+
+"ck_video_dir_name" = "所有视频";
+
+"ck_video_effect" = "直播特效";
+
+"ck_video_frame" = "视频帧";
+
+"ck_video_has_been_deleted" = "视频被删除";
+
+"ck_video_mask" = "蒙版";
+
+"ck_video_mask_feather" = "羽化";
+
+"ck_video_mask_invert" = "反转";
+
+"ck_video_synthesis" = "合成中";
+
+"ck_video_synthesis_failed" = "合成失败";
+
+"ck_video_synthesis_success" = "合成成功";
+
+"ck_vignetting" = "暗角";
+
+"ck_volume" = "音量";
+
+"ck_whether_exit_edit" = "确定退出编辑吗";
+
+"ck_white" = "白种人";
+
+"ck_yaw" = "偏航角";
+
+"ck_yellow" = "黄种人";
+
+"ck_yes" = "是";
+
+"curve_speed_dst_duration" = "%.1f";

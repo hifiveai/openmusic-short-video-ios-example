@@ -1,0 +1,80 @@
+{
+  "resource": {
+    "list": [
+      {
+        "order": 0, 
+        "name": "激萌", 
+        "path": "jimeng.mp3", 
+        "icon": "icon.jpg", 
+        "singer": "佚名", 
+        "name_en": "Faceu"
+      }, 
+      {
+        "order": 1, 
+        "name": "电音", 
+        "path": "dianyin.mp3", 
+        "icon": "icon.jpg", 
+        "singer": "佚名", 
+        "name_en": "Electric"
+      }, 
+      {
+        "order": 2, 
+        "name": "旅行", 
+        "path": "lvxing.mp3", 
+        "icon": "icon.jpg", 
+        "singer": "佚名", 
+        "name_en": "Travel"
+      }, 
+      {
+        "order": 3, 
+        "name": "卡点", 
+        "path": "kadian.mp3", 
+        "icon": "icon.jpg", 
+        "singer": "佚名", 
+        "name_en": "Card point"
+      }, 
+      {
+        "order": 4, 
+        "name": "摩登", 
+        "path": "modeng.mp3", 
+        "icon": "icon.jpg", 
+        "singer": "佚名", 
+        "name_en": "Modern"
+      }, 
+      {
+        "order": 5, 
+        "name": "欢乐", 
+        "path": "huanle.mp3", 
+        "icon": "icon.jpg", 
+        "singer": "佚名", 
+        "name_en": "Joy"
+      }, 
+      {
+        "order": 6, 
+        "name": "深沉", 
+        "path": "shenchen.mp3", 
+        "icon": "icon.jpg", 
+        "singer": "佚名", 
+        "name_en": "Deep"
+      }, 
+      {
+        "order": 7, 
+        "name": "古风", 
+        "path": "gufeng.mp3", 
+        "icon": "icon.jpg", 
+        "singer": "佚名", 
+        "name_en": "Ancient"
+      }, 
+      {
+        "order": 8, 
+        "name": "田园", 
+        "path": "tianyuan.mp3", 
+        "icon": "icon.jpg", 
+        "singer": "佚名", 
+        "name_en": "Pastoral"
+      }
+    ]
+  }, 
+  "type": "music", 
+  "version": "1.0"
+}

@@ -1,0 +1,23 @@
+%YAML 1.1
+--- !Prefab &1
+name: anim_Prefab
+guid: {a: 8513845104825703706, b: 4086771844525286885}
+entities:
+  - __class: Entity
+    name: root_entity
+    guid: {a: 5074185802454750282, b: 4184523754152774426}
+    selfvisible: true
+    tag: 0
+    components:
+      - __class: ScriptComponent
+        name: script
+        guid: {a: 7745865255086681666, b: 4522482444331843201}
+        enabled: true
+        path: T7442054704337663636.lua
+        properties:
+          __class: Map
+          sharedMaterial: {localId: 1, path: rt.material}
+        className: T7442054704337663636
+    layer: 0
+standaloneResources:
+  __class: Map

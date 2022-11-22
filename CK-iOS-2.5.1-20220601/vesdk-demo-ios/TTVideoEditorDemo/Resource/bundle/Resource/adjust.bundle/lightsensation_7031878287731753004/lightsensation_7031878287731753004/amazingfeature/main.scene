@@ -1,0 +1,90 @@
+%YAML 1.1
+--- !Scene &1
+name: Sticker_empty
+guid: {a: 811618259988621778, b: 5550810643008278920}
+calibrateVer: V4
+entities:
+  - __class: Entity
+    name: VFXCamera
+    guid: {a: 8305897614579375859, b: 16789573989040311724}
+    scene: {localId: 1}
+    selfvisible: true
+    tag: 0
+    components:
+      - {localId: 9}
+      - __class: Camera
+        name: Camera_camera
+        guid: {a: 14576219537539920357, b: 5460223343888965294}
+        enabled: true
+        layerVisibleMask: {__class: DynamicBitset, numBits: 2, values: [2]}
+        renderOrder: 2
+        type:
+          __class: CameraType
+          value: ORTHO
+        clearColor: {r: 0, g: 0, b: 0, a: 1}
+        clearType:
+          __class: CameraClearType
+          value: COLOR_DEPTH
+        alwaysClear: false
+        viewport: {x: 0, y: 0, w: 1, h: 1}
+        fovy: 60
+        orthoScale: 1
+        zNear: 0.1000000014901161
+        zFar: 1000
+        renderTexture: {localId: 1, path: rt/outputTex.rt}
+        isRootCamera: false
+    layer: 0
+  - __class: Entity
+    name: VFX
+    guid: {a: 3693513663747333322, b: 16755952303352607647}
+    scene: {localId: 1}
+    selfvisible: true
+    tag: 0
+    components:
+      - {localId: 12}
+      - __class: Sprite2DRenderer
+        name: VFXMeshRenderer
+        guid: {a: 8449094103775907252, b: 17530161718660209592}
+        enabled: true
+        sharedMaterials:
+          - {localId: 1, path: material/filter.material}
+        sortingOrder: 0
+        autoSortingOrder: false
+        useFrustumCulling: true
+        stretchMode:
+          __class: StretchMode
+          value: fit
+        pivot: {x: 0, y: 0}
+        flip: false
+        mirror: false
+        color: {x: 1, y: 1, z: 1, w: 1}
+      - __class: ScriptComponent
+        name: script
+        guid: {a: 10395009578895013183, b: 245519706811506069}
+        enabled: true
+        path: Transform.lua
+        properties:
+          __class: Map
+        className: Transform
+    layer: 1
+visible: true
+config:
+  __class: Map
+msaa:
+  __class: MSAAMode
+  value: NONE
+enableMultiTouch: false
+--- !Transform &9
+name: Camera_transform
+guid: {a: 2687167239893976036, b: 3122428626037070258}
+enabled: true
+localPosition: {x: 0, y: 0, z: 10}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}
+--- !Transform &12
+name: VFXTransform
+guid: {a: 8449711498682664768, b: 16629741995137821320}
+enabled: true
+localPosition: {x: 0, y: 0, z: 0}
+localScale: {x: 1, y: 1, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: 0}

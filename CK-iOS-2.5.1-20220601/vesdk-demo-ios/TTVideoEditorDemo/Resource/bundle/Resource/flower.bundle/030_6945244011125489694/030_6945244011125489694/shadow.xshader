@@ -1,0 +1,228 @@
+%YAML 1.1
+--- !XShader &1
+name: sprite xshader
+renderQueue: 3030
+passes:
+  - __class: Pass
+    name: ""
+    shaders:
+      __class: Map
+      gles30:
+        - {localId: 2}
+        - {localId: 3}
+      gles2:
+        - {localId: 5}
+        - {localId: 6}
+    semantics:
+      __class: Map
+      position:
+        __class: VertexAttribType
+        value: POSITION
+      texcoord0:
+        __class: VertexAttribType
+        value: TEXCOORD0
+      texcoord1:
+        __class: VertexAttribType
+        value: TEXCOORD1
+      texcoord2:
+        __class: VertexAttribType
+        value: TEXCOORD2
+      texcoord3:
+        __class: VertexAttribType
+        value: TEXCOORD3
+      texcoord4:
+        __class: VertexAttribType
+        value: TEXCOORD4
+      charcolor:
+        __class: VertexAttribType
+        value: COLOR
+    renderState:
+      __class: RenderState
+      name: ""
+      depthstencil:
+        __class: DepthStencilState
+        name: ""
+        depthTestEnable: false
+        depthTestEnableName: ""
+        depthCompareOp:
+          __class: CompareOp
+          value: LESS
+        depthCompareOpName: ""
+        depthWriteEnable: true
+        stencilTestEnable: false
+        stencilTestEnableName: ""
+        stencilFront: false
+        stencilBack: false
+      colorBlend:
+        __class: ColorBlendState
+        name: ""
+        blendConstants: {x: 0, y: 0, z: 0, w: 0}
+        attachments:
+          - __class: ColorBlendAttachmentState
+            name: ""
+            blendEnable: true
+            srcColorBlendFactor:
+              __class: BlendFactor
+              value: ONE
+            dstColorBlendFactor:
+              __class: BlendFactor
+              value: ONE_MINUS_SRC_ALPHA
+            srcAlphaBlendFactor:
+              __class: BlendFactor
+              value: ONE
+            dstAlphaBlendFactor:
+              __class: BlendFactor
+              value: ONE_MINUS_SRC_ALPHA
+            colorWriteMask: 15
+  - __class: Pass
+    shaders:
+      __class: Map
+      gles30:
+        - {localId: 2}
+        - {localId: 4}
+      gles2:
+        - {localId: 5}
+        - {localId: 7}
+    semantics:
+      __class: Map
+      position:
+        __class: VertexAttribType
+        value: POSITION
+      texcoord0:
+        __class: VertexAttribType
+        value: TEXCOORD0
+      texcoord1:
+        __class: VertexAttribType
+        value: TEXCOORD1
+      texcoord2:
+        __class: VertexAttribType
+        value: TEXCOORD2
+      texcoord3:
+        __class: VertexAttribType
+        value: TEXCOORD3
+      texcoord4:
+        __class: VertexAttribType
+        value: TEXCOORD4
+      charcolor:
+        __class: VertexAttribType
+        value: COLOR
+    renderState:
+      __class: RenderState
+      name: ""
+      depthstencil:
+        __class: DepthStencilState
+        name: ""
+        depthTestEnable: true
+        depthCompareOp:
+          __class: CompareOp
+          value: GREATER
+        depthWriteEnable: true
+      colorBlend:
+        __class: ColorBlendState
+        blendConstants: {x: 0, y: 0, z: 0, w: 0}
+        attachments:
+          - __class: ColorBlendAttachmentState
+            blendEnable: true
+            srcColorBlendFactor:
+              __class: BlendFactor
+              value: ONE
+            dstColorBlendFactor:
+              __class: BlendFactor
+              value: ONE_MINUS_SRC_ALPHA
+            srcAlphaBlendFactor:
+              __class: BlendFactor
+              value: ONE
+            dstAlphaBlendFactor:
+              __class: BlendFactor
+              value: ONE_MINUS_SRC_ALPHA
+            colorWriteMask: 0
+--- !Shader &2
+name: ""
+type:
+  __class: ShaderType
+  value: VERTEX
+sourcePath: effect.vert
+macros:
+  - SHADOW
+--- !Shader &3
+name: ""
+type:
+  __class: ShaderType
+  value: FRAGMENT
+sourcePath: effect.frag
+macros:
+  - SHADOW
+macros:
+  - COLOR2
+  - COLOR3
+  - LINEAR
+  - INLINE1
+  - INLINE1COLOR2
+  - INLINE1COLOR3
+  - INLINE1LINEAR
+  - OUTLINE1
+  - OUTLINE1COLOR2
+  - OUTLINE1COLOR3
+  - OUTLINE1LINEAR
+  - OUTLINE2
+  - OUTLINE2COLOR2
+  - OUTLINE2COLOR3
+  - OUTLINE2LINEAR
+  - OUTLINE3
+  - OUTLINE3COLOR2
+  - OUTLINE3COLOR3
+  - OUTLINE3LINEAR
+  - TEXTURE_LEVEL
+  - INNERSHADOW
+  - BLUR
+--- !Shader &4
+name: ""
+type:
+  __class: ShaderType
+  value: FRAGMENT
+sourcePath: depth.fs
+--- !Shader &5
+name: ""
+type:
+  __class: ShaderType
+  value: VERTEX
+sourcePath: effect-es2.vert
+macros:
+  - SHADOW
+--- !Shader &6
+name: ""
+type:
+  __class: ShaderType
+  value: FRAGMENT
+sourcePath: effect-es2.frag
+macros:
+  - SHADOW
+macros:
+  - COLOR2
+  - COLOR3
+  - LINEAR
+  - INLINE1
+  - INLINE1COLOR2
+  - INLINE1COLOR3
+  - INLINE1LINEAR
+  - OUTLINE1
+  - OUTLINE1COLOR2
+  - OUTLINE1COLOR3
+  - OUTLINE1LINEAR
+  - OUTLINE2
+  - OUTLINE2COLOR2
+  - OUTLINE2COLOR3
+  - OUTLINE2LINEAR
+  - OUTLINE3
+  - OUTLINE3COLOR2
+  - OUTLINE3COLOR3
+  - OUTLINE3LINEAR
+  - TEXTURE_LEVEL
+  - INNERSHADOW
+  - BLUR
+--- !Shader &7
+name: ""
+type:
+  __class: ShaderType
+  value: FRAGMENT
+sourcePath: depth-es2.fs

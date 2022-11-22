@@ -1,0 +1,56 @@
+
+platform:ios, '9.0'
+
+target 'TTVideoEditorDemo' do
+
+  pod 'TTVideoEditor', '11.3.0.12-D', :source => 'https://github.com/volcengine/volcengine-specs.git'
+
+  pod 'NLEEditor', :path => '../NLEEditor-iOS'
+  pod 'CKEditor', :path => '../CKEditor'
+  pod 'NLEPlatform', '0.3.1', :source => 'https://github.com/volcengine/volcengine-specs.git'
+  pod 'DVETrackKit', '0.3.1', :source => 'https://github.com/volcengine/volcengine-specs.git'
+  pod 'DVEInject', '0.0.1', :source => 'https://github.com/volcengine/volcengine-specs.git'
+
+
+  pod 'SGPagingView', '1.7.1'
+  pod 'KVOController','1.2.0'
+  pod 'Masonry','1.1.0'
+  pod 'ReactiveObjC', '3.1.1'
+  pod 'YYWebImage', '1.0.5'
+  pod 'YYImage', '1.0.4'
+  pod 'YYModel', '1.0.4'
+  pod 'MBProgressHUD', '1.2.0'
+  pod 'lottie-ios', '2.5.3'
+  pod 'SDWebImage', '5.11.1'
+  pod 'Toast', '4.0.0'
+  pod 'DoraemonKit', '3.0.7',:subspecs => ['Core','WithMLeaksFinder']
+  pod 'MJExtension'
+  pod 'PocketSVG', '2.7.0'
+  pod 'IGListKit', '4.0.0'
+  pod 'IGListDiffKit', '4.0.0'
+  pod 'KSYAudioPlotView'
+  pod 'SCWaveformView'
+#  pod 'MLeaksFinder'
+end
+
+post_install do |installer|
+  ## Fix for XCode 12.5 FBRetainCycleDetector
+  find_and_replace("Pods/FBRetainCycleDetector/FBRetainCycleDetector/Layout/Classes/FBClassStrongLayout.mm",
+    "layoutCache[currentClass] = ivars;", "layoutCache[(id<NSCopying>)currentClass] = ivars;")
+end
+
+## Fix for XCode 12.5 FBRetainCycleDetector
+def find_and_replace(dir, findstr, replacestr)
+  Dir[dir].each do |name|
+      FileUtils.chmod("+w", name)
+      text = File.read(name)
+      replace = text.gsub(findstr,replacestr)
+      if text != replace
+          puts "Fix: " + name
+          File.open(name, "w") { |file| file.puts replace }
+          STDOUT.flush
+      end
+  end
+  Dir[dir + '*/'].each(&method(:find_and_replace))
+end
+

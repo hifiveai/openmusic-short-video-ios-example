@@ -1,0 +1,41 @@
+{
+    "type": "canvas",
+    "resource": {
+        "list": [{
+            "name": "渐变3",
+            "path": "jianbian3_6945244027105689637/jianbian3_6945244027105689637",
+            "icon": "jianbian3_6945244027105689637/jianbian3_6945244027105689637.png",
+            "hint": "",
+            "tags": "",
+            "name_en": "Gradient 3"
+        }, {
+            "name": "渐变1",
+            "path": "jianbian1_6945244033904951310/jianbian1_6945244033904951310",
+            "icon": "jianbian1_6945244033904951310/jianbian1_6945244033904951310.png",
+            "hint": "",
+            "tags": "",
+            "name_en": "Gradient 1"
+        }, {
+            "name": "渐变5",
+            "path": "jianbian5_6945244061206003726/jianbian5_6945244061206003726",
+            "icon": "jianbian5_6945244061206003726/jianbian5_6945244061206003726.png",
+            "hint": "",
+            "tags": "",
+            "name_en": "Gradient 5"
+        }, {
+            "name": "渐变4",
+            "path": "jianbian4_6945244065442316302/jianbian4_6945244065442316302",
+            "icon": "jianbian4_6945244065442316302/jianbian4_6945244065442316302.png",
+            "hint": "",
+            "tags": "",
+            "name_en": "Gradient 4"
+        }, {
+            "name": "渐变2",
+            "path": "jianbian2_6945244677634834462/jianbian2_6945244677634834462",
+            "icon": "jianbian2_6945244677634834462/jianbian2_6945244677634834462.png",
+            "hint": "",
+            "tags": "",
+            "name_en": "Gradient 2"
+        }]
+    }
+}

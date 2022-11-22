@@ -1,0 +1,36 @@
+{
+    "type": "fonts",
+    "resource": {
+        "list": [{
+            "name": "咏楷体",
+            "path": "yongkaiti_7007684112744906796/yongkaiti_7007684112744906796",
+            "icon": "yongkaiti_7007684112744906796/yongkaiti_7007684112744906796.png",
+            "hint": "",
+            "tags": ""
+        }, {
+            "name": "软糖体",
+            "path": "ruantangti_7007684113022124076/ruantangti_7007684113022124076",
+            "icon": "ruantangti_7007684113022124076/ruantangti_7007684113022124076.png",
+            "hint": "",
+            "tags": ""
+        }, {
+            "name": "嘟嘟体",
+            "path": "duduti_7007684113919459372/duduti_7007684113919459372",
+            "icon": "duduti_7007684113919459372/duduti_7007684113919459372.png",
+            "hint": "",
+            "tags": ""
+        }, {
+            "name": "初心体",
+            "path": "chuxinti_7007684113919197228/chuxinti_7007684113919197228",
+            "icon": "chuxinti_7007684113919197228/chuxinti_7007684113919197228.png",
+            "hint": "",
+            "tags": ""
+        }, {
+            "name": "童谣体",
+            "path": "tongyaoti_7007684113021993004/tongyaoti_7007684113021993004",
+            "icon": "tongyaoti_7007684113021993004/tongyaoti_7007684113021993004.png",
+            "hint": "",
+            "tags": ""
+        }]
+    }
+}

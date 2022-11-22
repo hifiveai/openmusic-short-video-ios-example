@@ -1,0 +1,253 @@
+{
+    "resource": {
+        "list": [
+            {
+                "name":"样式2929",
+                "path":"",
+                "icon":"Frame 2929.png",
+                "style":{
+                    "outlineColor":  [0,0,0,0],
+                    "textColor":  [1,1,1,1],
+                    "backgroundColor": [0,0,0,0]
+                }
+            },
+            {
+                "name":"样式2936",
+                "path":"",
+                "icon":"Frame 2936.png",
+                "style":{
+                    "outlineColor":  [0,0,0,1],
+                    "textColor":  [1,1,1,1],
+                    "backgroundColor": [0,0,0,0]
+                }
+            },
+            {
+                "name":"样式2930",
+                "path": "",
+                "icon":"Frame 2930.png",
+                "style":{
+                    "outlineColor":  [1,1,1,1],
+                    "textColor":  [0.09,0.09,0.09,1],
+                    "backgroundColor": [0,0,0,0]
+                }
+            },
+            {
+                "name":"样式2931",
+                "path": "",
+                "icon":"Frame 2931.png",
+                "style":{
+                    "outlineColor":  [0.09,0.09,0.09,1],
+                    "textColor":  [1,0.87,0,1],
+                    "backgroundColor": [0,0,0,0]
+                }
+            },
+            {
+                "name":"样式2932",
+                "path": "",
+                "icon":"Frame 2932.png",
+                "style":{
+                    "outlineColor":  [1,0.54,0.5,1],
+                    "textColor":  [1,1,1,1],
+                    "backgroundColor": [0,0,0,0]
+                }
+            },
+            {
+                "name":"样式2933",
+                "path": "",
+                "icon":"Frame 2933.png",
+                "style":{
+                    "outlineColor":  [0.09,0.09,0.09,1],
+                    "textColor":  [0.72,0.86,0.96,1],
+                    "backgroundColor": [0,0,0,0]
+                }
+            },
+            {
+                "name":"样式2934",
+                "path": "",
+                "icon":"Frame 2934.png",
+                "style":{
+                    "outlineColor":  [1,0.38,0.62,1],
+                    "textColor":  [1,0.85,0.91,1],
+                    "backgroundColor": [0,0,0,0]
+                }
+            },
+            {
+                "name":"样式2935",
+                "path": "",
+                "icon":"Frame 2935.png",
+                "style":{
+                    "outlineColor":  [0.75,0.95,0.96,1],
+                    "textColor":  [0.27,0.62,0.95,1],
+                    "backgroundColor": [0,0,0,0]
+                }
+            },
+            {
+                "name":"样式2937",
+                "path": "",
+                "icon":"Frame 2937.png",
+                "style":{
+                    "outlineColor":  [0.76,0.81,0.28,1],
+                    "textColor":  [0.24,0.36,0.22,1],
+                    "backgroundColor": [0,0,0,0]
+                }
+            },
+            {
+                "name":"样式2938",
+                "path": "",
+                "icon":"Frame 2938.png",
+                "style":{
+                    "outlineColor":  [0.27,0.34,0.45,1],
+                    "textColor":  [0.56,0.76,0.8,1],
+                    "backgroundColor": [0,0,0,0]
+                }
+            },
+            {
+                "name":"样式2939",
+                "path": "",
+                "icon":"Frame 2939.png",
+                "style":{
+                    "outlineColor":  [1,0.09,0.22,1],
+                    "textColor":  [1,1,1,1],
+                    "backgroundColor": [0,0,0,0]
+                }
+            },
+            {
+                "name":"样式2940",
+                "path": "",
+                "icon":"Frame 2940.png",
+                "style":{
+                    "outlineColor":  [1,1,1,1],
+                    "textColor":  [0.67,0.29,0.22,1],
+                    "backgroundColor": [0,0,0,0]
+                }
+            },
+            {
+                "name":"样式2941",
+                "path": "",
+                "icon":"Frame 2941.png",
+                "style":{
+                    "outlineColor":  [0.29,0.26,0.22,1],
+                    "textColor":  [0.98,0.95,0.77,1],
+                    "backgroundColor": [0,0,0,0]
+                }
+            },
+            {
+                "name":"样式2942",
+                "path": "",
+                "icon":"Frame 2942.png",
+                "style":{
+                    "outlineColor":  [0.65,0.31,0.35,1],
+                    "textColor":  [1,0.85,0.78,1],
+                    "backgroundColor": [0,0,0,0]
+                }
+            },
+            {
+                "name":"样式2943",
+                "path": "",
+                "icon":"Frame 2943.png",
+                "style":{
+                    "outlineColor":  [0,0,0,0],
+                    "textColor":  [1,1,1,1],
+                    "backgroundColor": [0,0,0,1]
+                }
+            },
+            {
+                "name":"样式2944",
+                "path": "",
+                "icon":"Frame 2944.png",
+                "style":{
+                    "outlineColor":  [0,0,0,0],
+                    "textColor":  [0,0,0,1],
+                    "backgroundColor": [1,1,1,1]
+                }
+            },
+            {
+                "name":"样式2945",
+                "path": "",
+                "icon":"Frame 2945.png",
+                "style":{
+                    "outlineColor":  [0,0,0,0],
+                    "textColor":  [0.09,0.09,0.09,1],
+                    "backgroundColor": [1,0.87,0,1]
+                }
+            },
+            {
+                "name":"样式2946",
+                "path": "",
+                "icon":"Frame 2946.png",
+                "style":{
+                    "outlineColor":  [0,0,0,0],
+                    "textColor":  [1,1,1,1],
+                    "backgroundColor": [0.65,0.31,0.35,1]
+                }
+            },
+            {
+                "name":"样式2947",
+                "path": "",
+                "icon":"Frame 2947.png",
+                "style":{
+                    "outlineColor":  [0,0,0,0],
+                    "textColor":  [0.41,0.94,0.68,1],
+                    "backgroundColor": [0.04,0.04,0.04,1]
+                }
+            },
+            {
+                "name":"样式2948",
+                "path": "",
+                "icon":"Frame 2948.png",
+                "style":{
+                    "outlineColor":  [0,0,0,0],
+                    "textColor":  [1,1,1,1],
+                    "backgroundColor": [0,0,0,0],
+                    "shadowColor": [0.27,0.62,0.95,1]
+                }
+            },
+            {
+                "name":"样式2949",
+                "path": "",
+                "icon":"Frame 2949.png",
+                "style":{
+                    "outlineColor":  [0,0,0,0],
+                    "textColor":  [1,1,1,1],
+                    "backgroundColor": [0,0,0,0],
+                    "shadowColor": [1,0.38,0.62,1]
+                }
+            },
+            {
+                "name":"样式2950",
+                "path": "",
+                "icon":"Frame 2950.png",
+                "style":{
+                    "outlineColor":  [0,0,0,0],
+                    "textColor":  [0.98,0.95,0.77,1],
+                    "backgroundColor": [0,0,0,0],
+                    "shadowColor": [0.83,0.47,0.44,1]
+                }
+            },
+            {
+                "name":"样式2951",
+                "path": "",
+                "icon":"Frame 2951.png",
+                "style":{
+                    "outlineColor":  [0,0,0,0],
+                    "textColor":  [1,0.95,0.09,1],
+                    "backgroundColor": [0,0,0,0],
+                    "shadowColor": [0.72,0.11,0.11,1]
+                }
+            },
+            {
+                "name":"样式2952",
+                "path": "",
+                "icon":"Frame 2952.png",
+                "style":{
+                    "outlineColor":  [0,0,0,0],
+                    "textColor":  [0,0,0,1],
+                    "backgroundColor": [0,0,0,0],
+                    "shadowColor": [0.2,0.93,0.31,1]
+                }
+            }
+        ]
+    },
+    "type": "text",
+    "version": "1.0"
+}

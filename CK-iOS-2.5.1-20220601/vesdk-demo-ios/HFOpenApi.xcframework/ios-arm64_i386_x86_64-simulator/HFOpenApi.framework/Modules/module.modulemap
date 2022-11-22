@@ -1,0 +1,6 @@
+framework module HFOpenApi {
+  umbrella header "HFOpenApi.h"
+
+  export *
+  module * { export * }
+}

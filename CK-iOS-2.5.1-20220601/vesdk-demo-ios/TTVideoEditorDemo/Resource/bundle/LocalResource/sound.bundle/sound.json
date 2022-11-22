@@ -1,0 +1,139 @@
+{
+  "resource": {
+    "list": [
+      {
+        "order": 0, 
+        "name": "笑声", 
+        "path": "6569497fcf25821a4a3373377700cbbd.mp3", 
+        "icon": "icon.png", 
+        "duration": 4000, 
+        "singer": "BCD Studio", 
+        "name_en": "Laughter"
+      }, 
+      {
+        "order": 1, 
+        "name": "欢呼1", 
+        "path": "a8c27b86ff37bc53ab733f60c1d1cb10.mp3", 
+        "icon": "icon.png", 
+        "duration": 8000, 
+        "singer": "BCD Studio", 
+        "name_en": "Cheers 1"
+      }, 
+      {
+        "order": 2, 
+        "name": "欢呼2", 
+        "path": "bb04b9abbcddf527b2e6eafaf733bee8.mp3", 
+        "icon": "icon.png", 
+        "duration": 8000, 
+        "singer": "BCD Studio", 
+        "name_en": "Cheers 2"
+      }, 
+      {
+        "order": 3, 
+        "name": "游戏结束", 
+        "path": "ea6527682fad3801b9b786a177173549.mp3", 
+        "icon": "icon.png", 
+        "duration": 3000, 
+        "singer": "BCD Studio", 
+        "name_en": "Game over"
+      }, 
+      {
+        "order": 4, 
+        "name": "push", 
+        "path": "cfee233d3e5ac1ecd8d7d4769b39ba61.mp3", 
+        "icon": "icon.png", 
+        "duration": 2000, 
+        "singer": "BCD Studio"
+      }, 
+      {
+        "order": 5, 
+        "name": "错误", 
+        "path": "cf0933ebad7448fae318c117761744e8.mp3", 
+        "icon": "icon.png", 
+        "duration": 1000, 
+        "singer": "BCD Studio", 
+        "name_en": "Error"
+      }, 
+      {
+        "order": 6, 
+        "name": "乌鸦", 
+        "path": "3bf5db8358d1de22c99d8ba830416d87.mp3", 
+        "icon": "icon.png", 
+        "duration": 1000, 
+        "singer": "BCD Studio", 
+        "name_en": "Crow"
+      }, 
+      {
+        "order": 7, 
+        "name": "拍照", 
+        "path": "aa11aee752082037c382d7324c519065.mp3", 
+        "icon": "icon.png", 
+        "duration": 999, 
+        "singer": "BCD Studio", 
+        "name_en": "Take a picture"
+      }, 
+      {
+        "order": 8, 
+        "name": "ready go", 
+        "path": "e3c3361ce3ad390a5bcff12ee7d859b3.mp3", 
+        "icon": "icon.png", 
+        "duration": 1000, 
+        "singer": "BCD Studio"
+      }, 
+      {
+        "order": 9, 
+        "name": "魔法效果", 
+        "path": "1b89113be04ea8eb3f646d772e260be1.mp3", 
+        "icon": "icon.png", 
+        "duration": 2000, 
+        "singer": "BCD Studio", 
+        "name_en": "Magic effect"
+      }, 
+      {
+        "order": 10, 
+        "name": "凄凉风", 
+        "path": "5b6120b8bddf88dd0a797ac74169333d.mp3", 
+        "icon": "icon.png", 
+        "duration": 4000, 
+        "singer": "BCD Studio", 
+        "name_en": "Bleak wind"
+      }, 
+      {
+        "order": 11, 
+        "name": "飞走", 
+        "path": "d0847633e1ce76fb7d5307de9f9fe60c.mp3", 
+        "icon": "icon.png", 
+        "duration": 1000, 
+        "singer": "BCD Studio", 
+        "name_en": "Fly away"
+      }, 
+      {
+        "order": 12, 
+        "name": "掌声", 
+        "path": "122a9a07a93514f68298625a2db2d45b.mp3", 
+        "icon": "icon.png", 
+        "duration": 4000, 
+        "singer": "BCD Studio", 
+        "name_en": "Applause"
+      }, 
+      {
+        "order": 13, 
+        "name": "car", 
+        "path": "08fe2a505128c99b4c9262fd4a6fd18d.mp3", 
+        "icon": "icon.png", 
+        "duration": 3000, 
+        "singer": "BCD Studio"
+      }, 
+      {
+        "order": 14, 
+        "name": "SFX_Ballwooshlong_Oran", 
+        "path": "83f80ff4187685c6059a923f032a139a.mp3", 
+        "icon": "icon.png", 
+        "duration": 1000, 
+        "singer": "BCD Studio"
+      }
+    ]
+  }, 
+  "type": "soundEffect", 
+  "version": "1.0"
+}

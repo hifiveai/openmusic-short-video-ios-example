@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'NLEEditorUI_Example' do
+  pod 'NLEEditorUI', :path => '../'
+
+  target 'NLEEditorUI_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  TTVideoEditorDemo
+
+  Created by bytedance on 2021/10/27.
+  Copyright © 2021 bytedance. All rights reserved.
+*/
+"CFBundleDisplayName" = "BytePlus VE";

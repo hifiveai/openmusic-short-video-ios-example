@@ -1,0 +1,84 @@
+{
+  "type": "curvespeed",
+  "resource": {
+    "list": [
+      {
+        "order": 0,
+        "name": "自定",
+        "path": "ziding_7031878287732932652/ziding_7031878287732932652",
+        "icon": "ziding_7031878287732932652/ziding_7031878287732932652.png",
+        "resourceId": "1167168",
+        "extra": "{\"speed_points\":\"{\\\"speed_points\\\":[{\\\"x\\\":0,\\\"y\\\":1},{\\\"x\\\":0.25,\\\"y\\\":1},{\\\"x\\\":0.5,\\\"y\\\":1},{\\\"x\\\":0.75,\\\"y\\\":1},{\\\"x\\\":1,\\\"y\\\":1}]}\",\"prefix\":\"https:\\/\\/lf9-effectcdn-tos.byteeffecttos.com\\/obj\\/ies.fe.effect\\/\"}",
+        "name_en": "Custom",
+        "hint":"",
+        "tags":""
+      },
+      {
+        "order": 1,
+        "name": "蒙太奇",
+        "path": "mengtaiqi_7031878287731359788/mengtaiqi_7031878287731359788",
+        "icon": "mengtaiqi_7031878287731359788/mengtaiqi_7031878287731359788.png",
+        "resourceId": "1167170",
+        "extra": "{\"speed_points\":\"{\\\"speed_points\\\":[{\\\"x\\\":0,\\\"y\\\":0.9},{\\\"x\\\":0.1,\\\"y\\\":0.9},{\\\"x\\\":0.5,\\\"y\\\":6.8},{\\\"x\\\":0.65,\\\"y\\\":0.3},{\\\"x\\\":0.8,\\\"y\\\":1},{\\\"x\\\":1,\\\"y\\\":1}]}\",\"prefix\":\"https:\\/\\/lf9-effectcdn-tos.byteeffecttos.com\\/obj\\/ies.fe.effect\\/\"}",
+        "name_en": "Montage",
+        "hint":"",
+        "tags":""
+      },
+      {
+        "order": 2,
+        "name": "英雄时刻",
+        "path": "yingxiongshike_7031878287732277292/yingxiongshike_7031878287732277292",
+        "icon": "yingxiongshike_7031878287732277292/yingxiongshike_7031878287732277292.png",
+        "resourceId": "1167169",
+        "extra": "{\"speed_points\":\"{\\\"speed_points\\\":[{\\\"x\\\":0,\\\"y\\\":1},{\\\"x\\\":0.05,\\\"y\\\":1},{\\\"x\\\":0.35,\\\"y\\\":5.5},{\\\"x\\\":0.45,\\\"y\\\":0.5},{\\\"x\\\":0.55,\\\"y\\\":0.5},{\\\"x\\\":0.65,\\\"y\\\":5.5},{\\\"x\\\":0.95,\\\"y\\\":1},{\\\"x\\\":1,\\\"y\\\":1}]}\",\"prefix\":\"https:\\/\\/lf9-effectcdn-tos.byteeffecttos.com\\/obj\\/ies.fe.effect\\/\"}",
+        "name_en": "Hero",
+        "hint":"",
+        "tags":""
+      },
+      {
+        "order": 3,
+        "name": "子弹时间",
+        "path": "zidanshijian_7031878287731818540/zidanshijian_7031878287731818540",
+        "icon": "zidanshijian_7031878287731818540/zidanshijian_7031878287731818540.png",
+        "resourceId": "1167167",
+        "extra": "{\"speed_points\":\"{\\\"speed_points\\\":[{\\\"x\\\":0,\\\"y\\\":5.2},{\\\"x\\\":0.4,\\\"y\\\":5.2},{\\\"x\\\":0.46,\\\"y\\\":0.5},{\\\"x\\\":0.54,\\\"y\\\":0.5},{\\\"x\\\":0.6,\\\"y\\\":5.2},{\\\"x\\\":1,\\\"y\\\":5.2}]}\",\"prefix\":\"https:\\/\\/lf9-effectcdn-tos.byteeffecttos.com\\/obj\\/ies.fe.effect\\/\"}",
+        "name_en": "BulletTime",
+        "hint":"",
+        "tags":""
+      },
+      {
+        "order": 4,
+        "name": "跳接",
+        "path": "tiaojie_7031878287733194796/tiaojie_7031878287733194796",
+        "icon": "tiaojie_7031878287733194796/tiaojie_7031878287733194796.png",
+        "resourceId": "1167166",
+        "extra": "{\"speed_points\":\"{\\\"speed_points\\\":[{\\\"x\\\":0,\\\"y\\\":0.6},{\\\"x\\\":0.43,\\\"y\\\":0.6},{\\\"x\\\":0.5,\\\"y\\\":6},{\\\"x\\\":0.57,\\\"y\\\":0.6},{\\\"x\\\":1,\\\"y\\\":0.6}]}\",\"prefix\":\"https:\\/\\/lf9-effectcdn-tos.byteeffecttos.com\\/obj\\/ies.fe.effect\\/\"}",
+        "name_en": "JumpLink",
+        "hint":"",
+        "tags":""
+      },
+      {
+        "order": 5,
+        "name": "闪进",
+        "path": "shanjin_7031878287732670508/shanjin_7031878287732670508",
+        "icon": "shanjin_7031878287732670508/shanjin_7031878287732670508.png",
+        "resourceId": "1167165",
+        "extra": "{\"speed_points\":\"{\\\"speed_points\\\":[{\\\"x\\\":0,\\\"y\\\":5.2},{\\\"x\\\":0.4,\\\"y\\\":5.2},{\\\"x\\\":0.6,\\\"y\\\":1},{\\\"x\\\":1,\\\"y\\\":1}]}\",\"prefix\":\"https:\\/\\/lf9-effectcdn-tos.byteeffecttos.com\\/obj\\/ies.fe.effect\\/\"}",
+        "name_en": "Flash in",
+        "hint":"",
+        "tags":""
+      },
+      {
+        "order": 6,
+        "name": "闪出",
+        "path": "shanchu_7031878287732998188/shanchu_7031878287732998188",
+        "icon": "shanchu_7031878287732998188/shanchu_7031878287732998188.png",
+        "resourceId": "1167164",
+        "extra": "{\"speed_points\":\"{\\\"speed_points\\\":[{\\\"x\\\":0,\\\"y\\\":1},{\\\"x\\\":0.4,\\\"y\\\":1},{\\\"x\\\":0.6,\\\"y\\\":5.2},{\\\"x\\\":1,\\\"y\\\":5.2}]}\",\"prefix\":\"https:\\/\\/lf9-effectcdn-tos.byteeffecttos.com\\/obj\\/ies.fe.effect\\/\"}",
+        "name_en": "Flash out",
+        "hint":"",
+        "tags":""
+      }
+    ]
+  }
+}

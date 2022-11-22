@@ -1,0 +1,7 @@
+{
+    "dve_ui_color_theme" : "0xFE6646",
+    "dve_ui_color_sticker_item_background" : "0x00000000",
+    "dve_ui_color_text_field_background":"0xFFFFFF",
+    "dve_ui_color_text_field_text":"0x181718",
+    "dve_ui_color_slider_background":"0x626262"
+}

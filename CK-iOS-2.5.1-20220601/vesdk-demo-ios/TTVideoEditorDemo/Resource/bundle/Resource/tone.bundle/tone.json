@@ -1,0 +1,53 @@
+{
+	"type": "voice-change",
+	"version": "1.0",
+	"resource": {
+		"list": [
+			{
+				"order": 0,
+				"name": "萝莉",
+				"path": "luoli_7031878287732736044/luoli_7031878287732736044/loli.bin",
+				"icon": "luoli_7031878287732736044/luoli_7031878287732736044.png",
+				"name_en": "Lori",
+				"hint":"",
+				"tags":""
+			},
+			{
+				"order": 1,
+				"name": "大叔",
+				"path": "dashu_7031878287732146220/dashu_7031878287732146220/man.bin",
+				"icon": "dashu_7031878287732146220/dashu_7031878287732146220.png",
+				"name_en": "Uncle",
+				"hint":"",
+				"tags":""
+			},
+			{
+				"order": 2,
+				"name": "女声",
+				"path": "nvsheng_7031878287732867116/nvsheng_7031878287732867116/girl.bin",
+				"icon": "nvsheng_7031878287732867116/nvsheng_7031878287732867116.png",
+				"name_en": "GirlVoice",
+				"hint":"",
+				"tags":""
+			},
+			{
+				"order": 3,
+				"name": "男声",
+				"path": "nansheng_7031878287732015148/nansheng_7031878287732015148/boy.bin",
+				"icon": "nansheng_7031878287732015148/nansheng_7031878287732015148.png",
+				"name_en": "BoyVoice",
+				"hint":"",
+				"tags":""
+			},
+			{
+				"order": 4,
+				"name": "怪兽",
+				"path": "guaiwu_7031878287731687468/guaiwu_7031878287731687468/monster.bin",
+				"icon": "guaiwu_7031878287731687468/guaiwu_7031878287731687468.png",
+				"name_en": "Monster",
+				"hint":"",
+				"tags":""
+			}
+		]
+	}
+}

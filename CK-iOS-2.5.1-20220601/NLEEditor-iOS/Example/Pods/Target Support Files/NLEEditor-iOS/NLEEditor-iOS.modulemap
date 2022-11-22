@@ -1,0 +1,6 @@
+framework module NLEEditor_iOS {
+  umbrella header "NLEEditor-iOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

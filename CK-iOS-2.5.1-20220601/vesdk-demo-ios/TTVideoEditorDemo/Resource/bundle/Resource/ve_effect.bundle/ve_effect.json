@@ -1,0 +1,41 @@
+{
+    "type": "ve_effect",
+    "resource": {
+        "list": [{
+            "name": "变清晰",
+            "path": "bianqingxi_6945244009048817672/bianqingxi_6945244009048817672",
+            "icon": "bianqingxi_6945244009048817672/bianqingxi_6945244009048817672.gif",
+            "hint": "",
+            "tags": "热门,基础",
+            "name_en": "Clearer"
+        }, {
+            "name": "开幕",
+            "path": "kaimu_6945244013764132871/kaimu_6945244013764132871",
+            "icon": "kaimu_6945244013764132871/kaimu_6945244013764132871.gif",
+            "hint": "",
+            "tags": "热门,基础",
+            "name_en": "Opening"
+        }, {
+            "name": "模糊",
+            "path": "mohu_6945244020516372494/mohu_6945244020516372494",
+            "icon": "mohu_6945244020516372494/mohu_6945244020516372494.png",
+            "hint": "",
+            "tags": "基础",
+            "name_en": "Blur"
+        }, {
+            "name": "镜头变焦",
+            "path": "jingtoubianjiao_6945244027105493029/jingtoubianjiao_6945244027105493029",
+            "icon": "jingtoubianjiao_6945244027105493029/jingtoubianjiao_6945244027105493029.gif",
+            "hint": "",
+            "tags": "热门,基础",
+            "name_en": "Lens Zoom"
+        }, {
+            "name": "开幕  II",
+            "path": "kaimuII_6945244062535729189/kaimuII_6945244062535729189",
+            "icon": "kaimuII_6945244062535729189/kaimuII_6945244062535729189.gif",
+            "hint": "",
+            "tags": "热门,基础",
+            "name_en": "Opening"
+        }]
+    }
+}

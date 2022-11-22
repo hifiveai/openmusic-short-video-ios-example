@@ -1,0 +1,772 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		03823F3921BB045C95514CC99AB1E368 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		1B6FB13597E4084D526807E054B6C3C1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		1C33AD38174CB96473123B688D3E9CB2 /* NLEEditor-iOS-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = FC7D99D245C4020F77B9FF784A705164 /* NLEEditor-iOS-dummy.m */; };
+		277E0CD71E096E63F1A162FB1A282F24 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		38F74420A9CE1E6A03C5A8ED96D2A9B5 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 9E0756A2ED66A898275BC28B2A43E4E7 /* ReplaceMe.m */; };
+		55DD00904B3258841D77699D3F88E33D /* Pods-NLEEditor-iOS_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 106B62F104904FD6CB213B2C5F248E12 /* Pods-NLEEditor-iOS_Example-dummy.m */; };
+		7EB2D4F51B59A180DEB37815E0964838 /* Pods-NLEEditor-iOS_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A9760F71657B5B88C3A7722839B2B3BD /* Pods-NLEEditor-iOS_Tests-dummy.m */; };
+		8D0C815B55229476F5AE1436579DE8D9 /* Pods-NLEEditor-iOS_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0FB76200DA1152A8992770C3E27AF78B /* Pods-NLEEditor-iOS_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A4D44FE8F9533E10D6E43855A657B735 /* NLEEditor-iOS-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F2E94C70DB521C3E9ACBCC474D3490BA /* NLEEditor-iOS-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		F6642E8B21D4621BD51E463C5AC31F5F /* Pods-NLEEditor-iOS_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = EB85D0F6ED5642840A2C5CE1699F16AE /* Pods-NLEEditor-iOS_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		1FEE0E32A84B44001FC71B2BEB4F1FC0 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = BCD262F2235436AC32EA826ED5F2A0C2;
+			remoteInfo = "NLEEditor-iOS";
+		};
+		8F0F87E5378266850D3AF09245B06938 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = D928505A0AA2B8BBA4C37EBAFB13B958;
+			remoteInfo = "Pods-NLEEditor-iOS_Example";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		049DE2B67D8EFB9C77A4E7A1BF48BA62 /* Pods_NLEEditor_iOS_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_NLEEditor_iOS_Tests.framework; path = "Pods-NLEEditor-iOS_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0990B9B9AC965DE58C8C8909DADA4B2F /* Pods-NLEEditor-iOS_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NLEEditor-iOS_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		0FB76200DA1152A8992770C3E27AF78B /* Pods-NLEEditor-iOS_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-NLEEditor-iOS_Example-umbrella.h"; sourceTree = "<group>"; };
+		106B62F104904FD6CB213B2C5F248E12 /* Pods-NLEEditor-iOS_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NLEEditor-iOS_Example-dummy.m"; sourceTree = "<group>"; };
+		18F094E55A45A7FF968500337BF363D6 /* Pods-NLEEditor-iOS_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-NLEEditor-iOS_Example-frameworks.sh"; sourceTree = "<group>"; };
+		19D06715CAE784461B76E77506EC3A24 /* Pods-NLEEditor-iOS_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NLEEditor-iOS_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		1B444DDF778250225C08C6EEB008757C /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		1D7092356D9EE9B1A523E1B2A7E18E04 /* NLEEditor-iOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "NLEEditor-iOS.release.xcconfig"; sourceTree = "<group>"; };
+		2511F6BC9F987B7DC8B8E68180A62477 /* Pods-NLEEditor-iOS_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-NLEEditor-iOS_Tests.modulemap"; sourceTree = "<group>"; };
+		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		48F3DE24180B362309788AC95B005EB5 /* Pods-NLEEditor-iOS_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NLEEditor-iOS_Tests-Info.plist"; sourceTree = "<group>"; };
+		511B80532D466905A9095A0A292E9CBB /* Pods-NLEEditor-iOS_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NLEEditor-iOS_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
+		5F9C688274948E939856626B7B9B3267 /* Pods_NLEEditor_iOS_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_NLEEditor_iOS_Example.framework; path = "Pods-NLEEditor-iOS_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6262D360BC645274919261CFB40D2582 /* Pods-NLEEditor-iOS_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NLEEditor-iOS_Example-acknowledgements.plist"; sourceTree = "<group>"; };
+		6BF5ED08DE40B616AE2678287AD0ECB4 /* NLEEditor-iOS.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = "NLEEditor-iOS.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		70F6AAEB64CB7C4D9065E4B07ABBCE7D /* Pods-NLEEditor-iOS_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-NLEEditor-iOS_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		7BF9AC40A133463F714EA375F626A80A /* NLEEditor-iOS-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NLEEditor-iOS-prefix.pch"; sourceTree = "<group>"; };
+		868CBD17079DA6D2C0E36B4C36104134 /* NLEEditor-iOS-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "NLEEditor-iOS-Info.plist"; sourceTree = "<group>"; };
+		8A282C368CC3AB83ECE7AA2504F91910 /* Pods-NLEEditor-iOS_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-NLEEditor-iOS_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
+		8B66F4FC4035EFA19AE3E4BE10CBEC3B /* NLEEditor-iOS.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "NLEEditor-iOS.modulemap"; sourceTree = "<group>"; };
+		95A447D78C16FEC6EE1F1F861241F610 /* Pods-NLEEditor-iOS_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NLEEditor-iOS_Example.release.xcconfig"; sourceTree = "<group>"; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9E0756A2ED66A898275BC28B2A43E4E7 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = "NLEEditor-iOS/Classes/ReplaceMe.m"; sourceTree = "<group>"; };
+		A1DABEF92A0D50C3C9198521A0077236 /* Pods-NLEEditor-iOS_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-NLEEditor-iOS_Example-Info.plist"; sourceTree = "<group>"; };
+		A553232957A8194822E4F7E4B4B4D4DA /* Pods-NLEEditor-iOS_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-NLEEditor-iOS_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		A879DC30723E0DD3A160DE38A6FD6338 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		A9760F71657B5B88C3A7722839B2B3BD /* Pods-NLEEditor-iOS_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-NLEEditor-iOS_Tests-dummy.m"; sourceTree = "<group>"; };
+		AB7337A7068D3CA5F1AE127C7DD99FD9 /* NLEEditor-iOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "NLEEditor-iOS.debug.xcconfig"; sourceTree = "<group>"; };
+		BCEF50F07250D043D64D4C0B27F205AD /* Pods-NLEEditor-iOS_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-NLEEditor-iOS_Example.modulemap"; sourceTree = "<group>"; };
+		E99070F40BD5F13A3F316C7FB62C02E5 /* NLEEditor_iOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = NLEEditor_iOS.framework; path = "NLEEditor-iOS.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EB85D0F6ED5642840A2C5CE1699F16AE /* Pods-NLEEditor-iOS_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-NLEEditor-iOS_Tests-umbrella.h"; sourceTree = "<group>"; };
+		F2E94C70DB521C3E9ACBCC474D3490BA /* NLEEditor-iOS-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NLEEditor-iOS-umbrella.h"; sourceTree = "<group>"; };
+		FC7D99D245C4020F77B9FF784A705164 /* NLEEditor-iOS-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "NLEEditor-iOS-dummy.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		79BCB5B12329D86DAE5ACE53B4E9EB71 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				03823F3921BB045C95514CC99AB1E368 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F4C98EA6EBE8F27AE3F7034630201D11 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				277E0CD71E096E63F1A162FB1A282F24 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		F51B3C18677FA248EC72ECEA8F16ED4E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1B6FB13597E4084D526807E054B6C3C1 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		03DC601CDA4624BA23BE43AC11A26C26 /* Pod */ = {
+			isa = PBXGroup;
+			children = (
+				A879DC30723E0DD3A160DE38A6FD6338 /* LICENSE */,
+				6BF5ED08DE40B616AE2678287AD0ECB4 /* NLEEditor-iOS.podspec */,
+				1B444DDF778250225C08C6EEB008757C /* README.md */,
+			);
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		35E58CE5B211479429CFF0083FEE560C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				E99070F40BD5F13A3F316C7FB62C02E5 /* NLEEditor_iOS.framework */,
+				5F9C688274948E939856626B7B9B3267 /* Pods_NLEEditor_iOS_Example.framework */,
+				049DE2B67D8EFB9C77A4E7A1BF48BA62 /* Pods_NLEEditor_iOS_Tests.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		83A7D59CF0376646D62104C6A65F1577 /* Targets Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				AFBB0ADEE09F743C98CAB6808DFA819C /* Pods-NLEEditor-iOS_Example */,
+				FCC75BF5031FE4B8BB15DEA8F91AB230 /* Pods-NLEEditor-iOS_Tests */,
+			);
+			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		AFBB0ADEE09F743C98CAB6808DFA819C /* Pods-NLEEditor-iOS_Example */ = {
+			isa = PBXGroup;
+			children = (
+				BCEF50F07250D043D64D4C0B27F205AD /* Pods-NLEEditor-iOS_Example.modulemap */,
+				8A282C368CC3AB83ECE7AA2504F91910 /* Pods-NLEEditor-iOS_Example-acknowledgements.markdown */,
+				6262D360BC645274919261CFB40D2582 /* Pods-NLEEditor-iOS_Example-acknowledgements.plist */,
+				106B62F104904FD6CB213B2C5F248E12 /* Pods-NLEEditor-iOS_Example-dummy.m */,
+				18F094E55A45A7FF968500337BF363D6 /* Pods-NLEEditor-iOS_Example-frameworks.sh */,
+				A1DABEF92A0D50C3C9198521A0077236 /* Pods-NLEEditor-iOS_Example-Info.plist */,
+				0FB76200DA1152A8992770C3E27AF78B /* Pods-NLEEditor-iOS_Example-umbrella.h */,
+				0990B9B9AC965DE58C8C8909DADA4B2F /* Pods-NLEEditor-iOS_Example.debug.xcconfig */,
+				95A447D78C16FEC6EE1F1F861241F610 /* Pods-NLEEditor-iOS_Example.release.xcconfig */,
+			);
+			name = "Pods-NLEEditor-iOS_Example";
+			path = "Target Support Files/Pods-NLEEditor-iOS_Example";
+			sourceTree = "<group>";
+		};
+		B30FC87A77AFF75DD681DD7A43469DDD /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				8B66F4FC4035EFA19AE3E4BE10CBEC3B /* NLEEditor-iOS.modulemap */,
+				FC7D99D245C4020F77B9FF784A705164 /* NLEEditor-iOS-dummy.m */,
+				868CBD17079DA6D2C0E36B4C36104134 /* NLEEditor-iOS-Info.plist */,
+				7BF9AC40A133463F714EA375F626A80A /* NLEEditor-iOS-prefix.pch */,
+				F2E94C70DB521C3E9ACBCC474D3490BA /* NLEEditor-iOS-umbrella.h */,
+				AB7337A7068D3CA5F1AE127C7DD99FD9 /* NLEEditor-iOS.debug.xcconfig */,
+				1D7092356D9EE9B1A523E1B2A7E18E04 /* NLEEditor-iOS.release.xcconfig */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/NLEEditor-iOS";
+			sourceTree = "<group>";
+		};
+		C0834CEBB1379A84116EF29F93051C60 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */,
+			);
+			name = iOS;
+			sourceTree = "<group>";
+		};
+		C9382A63C73C1A34C9EFD620085C0F87 /* Development Pods */ = {
+			isa = PBXGroup;
+			children = (
+				CFDF521DEA938D2956F614C0955BE0C6 /* NLEEditor-iOS */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		CF1408CF629C7361332E53B88F7BD30C = {
+			isa = PBXGroup;
+			children = (
+				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
+				C9382A63C73C1A34C9EFD620085C0F87 /* Development Pods */,
+				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
+				35E58CE5B211479429CFF0083FEE560C /* Products */,
+				83A7D59CF0376646D62104C6A65F1577 /* Targets Support Files */,
+			);
+			sourceTree = "<group>";
+		};
+		CFDF521DEA938D2956F614C0955BE0C6 /* NLEEditor-iOS */ = {
+			isa = PBXGroup;
+			children = (
+				9E0756A2ED66A898275BC28B2A43E4E7 /* ReplaceMe.m */,
+				03DC601CDA4624BA23BE43AC11A26C26 /* Pod */,
+				B30FC87A77AFF75DD681DD7A43469DDD /* Support Files */,
+			);
+			name = "NLEEditor-iOS";
+			path = ../..;
+			sourceTree = "<group>";
+		};
+		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C0834CEBB1379A84116EF29F93051C60 /* iOS */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		FCC75BF5031FE4B8BB15DEA8F91AB230 /* Pods-NLEEditor-iOS_Tests */ = {
+			isa = PBXGroup;
+			children = (
+				2511F6BC9F987B7DC8B8E68180A62477 /* Pods-NLEEditor-iOS_Tests.modulemap */,
+				70F6AAEB64CB7C4D9065E4B07ABBCE7D /* Pods-NLEEditor-iOS_Tests-acknowledgements.markdown */,
+				511B80532D466905A9095A0A292E9CBB /* Pods-NLEEditor-iOS_Tests-acknowledgements.plist */,
+				A9760F71657B5B88C3A7722839B2B3BD /* Pods-NLEEditor-iOS_Tests-dummy.m */,
+				48F3DE24180B362309788AC95B005EB5 /* Pods-NLEEditor-iOS_Tests-Info.plist */,
+				EB85D0F6ED5642840A2C5CE1699F16AE /* Pods-NLEEditor-iOS_Tests-umbrella.h */,
+				19D06715CAE784461B76E77506EC3A24 /* Pods-NLEEditor-iOS_Tests.debug.xcconfig */,
+				A553232957A8194822E4F7E4B4B4D4DA /* Pods-NLEEditor-iOS_Tests.release.xcconfig */,
+			);
+			name = "Pods-NLEEditor-iOS_Tests";
+			path = "Target Support Files/Pods-NLEEditor-iOS_Tests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		77ADE0EA2D779928991F7B4661BAA801 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F6642E8B21D4621BD51E463C5AC31F5F /* Pods-NLEEditor-iOS_Tests-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		92DEBF98078E2C68E02D2D373244EE2F /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A4D44FE8F9533E10D6E43855A657B735 /* NLEEditor-iOS-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A5E75E193BD013FA6CA7A2DDDAF78F50 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D0C815B55229476F5AE1436579DE8D9 /* Pods-NLEEditor-iOS_Example-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		BCD262F2235436AC32EA826ED5F2A0C2 /* NLEEditor-iOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 08FD6DB19D248488C46E5ED06C208F06 /* Build configuration list for PBXNativeTarget "NLEEditor-iOS" */;
+			buildPhases = (
+				92DEBF98078E2C68E02D2D373244EE2F /* Headers */,
+				673207DB368366A1816F91B6EC9837F5 /* Sources */,
+				79BCB5B12329D86DAE5ACE53B4E9EB71 /* Frameworks */,
+				6455F9F957890D6F7F9560B364757D07 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "NLEEditor-iOS";
+			productName = "NLEEditor-iOS";
+			productReference = E99070F40BD5F13A3F316C7FB62C02E5 /* NLEEditor_iOS.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		D928505A0AA2B8BBA4C37EBAFB13B958 /* Pods-NLEEditor-iOS_Example */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 69ADDFBCA8FA86A9BC6E190FD65C5FD1 /* Build configuration list for PBXNativeTarget "Pods-NLEEditor-iOS_Example" */;
+			buildPhases = (
+				A5E75E193BD013FA6CA7A2DDDAF78F50 /* Headers */,
+				BE7B80B7166D3E67AED4BD2C0E346001 /* Sources */,
+				F51B3C18677FA248EC72ECEA8F16ED4E /* Frameworks */,
+				A8FA3E78474EFF0BCD21EADB120D001B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				4487E087339F1DABB79623D6A99C061F /* PBXTargetDependency */,
+			);
+			name = "Pods-NLEEditor-iOS_Example";
+			productName = "Pods-NLEEditor-iOS_Example";
+			productReference = 5F9C688274948E939856626B7B9B3267 /* Pods_NLEEditor_iOS_Example.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		F56CA5FFF3B6B49E7687D740A4E322EB /* Pods-NLEEditor-iOS_Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5117467A69DB13A98E7BBBC4CADFD497 /* Build configuration list for PBXNativeTarget "Pods-NLEEditor-iOS_Tests" */;
+			buildPhases = (
+				77ADE0EA2D779928991F7B4661BAA801 /* Headers */,
+				8254FA7C21640D7FD4123E614FD560FE /* Sources */,
+				F4C98EA6EBE8F27AE3F7034630201D11 /* Frameworks */,
+				0D837AA4BDBCD0F7FC522443D2BB4A0A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				669871BE20A7AEC1FCF92B4E4FB0C70B /* PBXTargetDependency */,
+			);
+			name = "Pods-NLEEditor-iOS_Tests";
+			productName = "Pods-NLEEditor-iOS_Tests";
+			productReference = 049DE2B67D8EFB9C77A4E7A1BF48BA62 /* Pods_NLEEditor_iOS_Tests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1100;
+				LastUpgradeCheck = 1100;
+			};
+			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
+			productRefGroup = 35E58CE5B211479429CFF0083FEE560C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				BCD262F2235436AC32EA826ED5F2A0C2 /* NLEEditor-iOS */,
+				D928505A0AA2B8BBA4C37EBAFB13B958 /* Pods-NLEEditor-iOS_Example */,
+				F56CA5FFF3B6B49E7687D740A4E322EB /* Pods-NLEEditor-iOS_Tests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0D837AA4BDBCD0F7FC522443D2BB4A0A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6455F9F957890D6F7F9560B364757D07 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A8FA3E78474EFF0BCD21EADB120D001B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		673207DB368366A1816F91B6EC9837F5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1C33AD38174CB96473123B688D3E9CB2 /* NLEEditor-iOS-dummy.m in Sources */,
+				38F74420A9CE1E6A03C5A8ED96D2A9B5 /* ReplaceMe.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8254FA7C21640D7FD4123E614FD560FE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				7EB2D4F51B59A180DEB37815E0964838 /* Pods-NLEEditor-iOS_Tests-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BE7B80B7166D3E67AED4BD2C0E346001 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				55DD00904B3258841D77699D3F88E33D /* Pods-NLEEditor-iOS_Example-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		4487E087339F1DABB79623D6A99C061F /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "NLEEditor-iOS";
+			target = BCD262F2235436AC32EA826ED5F2A0C2 /* NLEEditor-iOS */;
+			targetProxy = 1FEE0E32A84B44001FC71B2BEB4F1FC0 /* PBXContainerItemProxy */;
+		};
+		669871BE20A7AEC1FCF92B4E4FB0C70B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-NLEEditor-iOS_Example";
+			target = D928505A0AA2B8BBA4C37EBAFB13B958 /* Pods-NLEEditor-iOS_Example */;
+			targetProxy = 8F0F87E5378266850D3AF09245B06938 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		3C662DDB3DCA88DF8FCD8457F1178E87 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 95A447D78C16FEC6EE1F1F861241F610 /* Pods-NLEEditor-iOS_Example.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-NLEEditor-iOS_Example/Pods-NLEEditor-iOS_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-NLEEditor-iOS_Example/Pods-NLEEditor-iOS_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		44A0E0F6F98B575D9CB630EF79A42DF1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = AB7337A7068D3CA5F1AE127C7DD99FD9 /* NLEEditor-iOS.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/NLEEditor-iOS/NLEEditor-iOS-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/NLEEditor-iOS/NLEEditor-iOS-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/NLEEditor-iOS/NLEEditor-iOS.modulemap";
+				PRODUCT_MODULE_NAME = NLEEditor_iOS;
+				PRODUCT_NAME = NLEEditor_iOS;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		56EDDD1CDC7888C64AC54480F0C2C8BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0990B9B9AC965DE58C8C8909DADA4B2F /* Pods-NLEEditor-iOS_Example.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-NLEEditor-iOS_Example/Pods-NLEEditor-iOS_Example-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-NLEEditor-iOS_Example/Pods-NLEEditor-iOS_Example.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		78C1FABF835442149AC26E8EE06ED453 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 19D06715CAE784461B76E77506EC3A24 /* Pods-NLEEditor-iOS_Tests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-NLEEditor-iOS_Tests/Pods-NLEEditor-iOS_Tests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-NLEEditor-iOS_Tests/Pods-NLEEditor-iOS_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		8F17DC3A99F99FBAD606CE6963886315 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_RELEASE=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Release;
+		};
+		916E0404255105F480DC4950B7625F7A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"POD_CONFIGURATION_DEBUG=1",
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRIP_INSTALLED_PRODUCT = NO;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+				SYMROOT = "${SRCROOT}/../build";
+			};
+			name = Debug;
+		};
+		BC9E00AB11FF5FC8D86E69E55FA927F9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1D7092356D9EE9B1A523E1B2A7E18E04 /* NLEEditor-iOS.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/NLEEditor-iOS/NLEEditor-iOS-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/NLEEditor-iOS/NLEEditor-iOS-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/NLEEditor-iOS/NLEEditor-iOS.modulemap";
+				PRODUCT_MODULE_NAME = NLEEditor_iOS;
+				PRODUCT_NAME = NLEEditor_iOS;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		F45E9C15FD8E1AC5A34C3BFBF06589B8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = A553232957A8194822E4F7E4B4B4D4DA /* Pods-NLEEditor-iOS_Tests.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-NLEEditor-iOS_Tests/Pods-NLEEditor-iOS_Tests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-NLEEditor-iOS_Tests/Pods-NLEEditor-iOS_Tests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		08FD6DB19D248488C46E5ED06C208F06 /* Build configuration list for PBXNativeTarget "NLEEditor-iOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				44A0E0F6F98B575D9CB630EF79A42DF1 /* Debug */,
+				BC9E00AB11FF5FC8D86E69E55FA927F9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				916E0404255105F480DC4950B7625F7A /* Debug */,
+				8F17DC3A99F99FBAD606CE6963886315 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5117467A69DB13A98E7BBBC4CADFD497 /* Build configuration list for PBXNativeTarget "Pods-NLEEditor-iOS_Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				78C1FABF835442149AC26E8EE06ED453 /* Debug */,
+				F45E9C15FD8E1AC5A34C3BFBF06589B8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		69ADDFBCA8FA86A9BC6E190FD65C5FD1 /* Build configuration list for PBXNativeTarget "Pods-NLEEditor-iOS_Example" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				56EDDD1CDC7888C64AC54480F0C2C8BF /* Debug */,
+				3C662DDB3DCA88DF8FCD8457F1178E87 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+}

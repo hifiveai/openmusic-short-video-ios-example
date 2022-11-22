@@ -1,0 +1,34 @@
+{
+    "type": "mix",
+    "resource": {
+        "list": [{
+            "name": "叠加",
+            "path": "diejia_6945244024123146253/diejia_6945244024123146253",
+            "icon": "diejia_6945244024123146253/diejia_6945244024123146253.png",
+            "hint": "",
+            "tags": "",
+            "name_en": "Overlay"
+        }, {
+            "name": "变暗",
+            "path": "bianan_6945244025654100005/bianan_6945244025654100005",
+            "icon": "bianan_6945244025654100005/bianan_6945244025654100005.png",
+            "hint": "",
+            "tags": "",
+            "name_en": "Darken"
+        }, {
+            "name": "滤色",
+            "path": "lvse_6945244042930601992/lvse_6945244042930601992",
+            "icon": "lvse_6945244042930601992/lvse_6945244042930601992.png",
+            "hint": "",
+            "tags": "",
+            "name_en": "Filter"
+        }, {
+            "name": "变亮",
+            "path": "bianliang_6945244048513777672/bianliang_6945244048513777672",
+            "icon": "bianliang_6945244048513777672/bianliang_6945244048513777672.png",
+            "hint": "",
+            "tags": "",
+            "name_en": "Brighten"
+        }]
+    }
+}

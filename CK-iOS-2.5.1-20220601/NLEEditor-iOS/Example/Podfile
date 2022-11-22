@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'NLEEditor-iOS_Example' do
+  pod 'NLEEditor-iOS', :path => '../'
+
+  target 'NLEEditor-iOS_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

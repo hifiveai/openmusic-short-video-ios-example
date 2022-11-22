@@ -1,0 +1,111 @@
+{
+    "type": "sticker animation",
+    "resource": {
+        "list": [{
+            "name": "轻微放大",
+            "path": "qingweifangda_6945244009049604104/qingweifangda_6945244009049604104",
+            "icon": "qingweifangda_6945244009049604104/qingweifangda_6945244009049604104.gif",
+            "hint": "",
+            "tags": "出场",
+            "name_en": "Larger"
+        }, {
+            "name": "轻微放大",
+            "path": "qingweifangda_6945244016708567070/qingweifangda_6945244016708567070",
+            "icon": "qingweifangda_6945244016708567070/qingweifangda_6945244016708567070.gif",
+            "hint": "",
+            "tags": "入场",
+            "name_en": "Larger"
+        }, {
+            "name": "放大",
+            "path": "fangda_6945244018201477150/fangda_6945244018201477150",
+            "icon": "fangda_6945244018201477150/fangda_6945244018201477150.gif",
+            "hint": "",
+            "tags": "入场",
+            "name_en": "Zoom in"
+        }, {
+            "name": "渐隐",
+            "path": "jianyin_6945244020517289998/jianyin_6945244020517289998",
+            "icon": "jianyin_6945244020517289998/jianyin_6945244020517289998.gif",
+            "hint": "",
+            "tags": "出场",
+            "name_en": "Fade away"
+        }, {
+            "name": "放大",
+            "path": "fangda_6945244029102964749/fangda_6945244029102964749",
+            "icon": "fangda_6945244029102964749/fangda_6945244029102964749.gif",
+            "hint": "",
+            "tags": "出场",
+            "name_en": "Zoom in"
+        }, {
+            "name": "旋转",
+            "path": "xuanzhuan_6945244031766315044/xuanzhuan_6945244031766315044",
+            "icon": "xuanzhuan_6945244031766315044/xuanzhuan_6945244031766315044.gif",
+            "hint": "",
+            "tags": "循环",
+            "name_en": "Rotate"
+        }, {
+            "name": "向左滑动",
+            "path": "xiangzuohuadong_6945244039026720782/xiangzuohuadong_6945244039026720782",
+            "icon": "xiangzuohuadong_6945244039026720782/xiangzuohuadong_6945244039026720782.gif",
+            "hint": "",
+            "tags": "出场",
+            "name_en": "Slide left"
+        }, {
+            "name": "颤抖",
+            "path": "chandou_6945244048513155080/chandou_6945244048513155080",
+            "icon": "chandou_6945244048513155080/chandou_6945244048513155080.gif",
+            "hint": "",
+            "tags": "循环",
+            "name_en": "Trembling"
+        }, {
+            "name": "渐显",
+            "path": "jianxian_6945244058375208968/jianxian_6945244058375208968",
+            "icon": "jianxian_6945244058375208968/jianxian_6945244058375208968.gif",
+            "hint": "",
+            "tags": "入场",
+            "name_en": "Progressive"
+        }, {
+            "name": "闪烁",
+            "path": "shanshuo_6945244061205184526/shanshuo_6945244061205184526",
+            "icon": "shanshuo_6945244061205184526/shanshuo_6945244061205184526.gif",
+            "hint": "",
+            "tags": "循环",
+            "name_en": "Flicker"
+        }, {
+            "name": "跳动",
+            "path": "tiaodong_6945244062824251422/tiaodong_6945244062824251422",
+            "icon": "tiaodong_6945244062824251422/tiaodong_6945244062824251422.gif",
+            "hint": "",
+            "tags": "循环",
+            "name_en": "Beating"
+        }, {
+            "name": "缩小",
+            "path": "suoxiao_6945244063575818248/suoxiao_6945244063575818248",
+            "icon": "suoxiao_6945244063575818248/suoxiao_6945244063575818248.gif",
+            "hint": "",
+            "tags": "入场",
+            "name_en": "Narrow"
+        }, {
+            "name": "向左滑动",
+            "path": "xiangzuohuadong_6945244063576014856/xiangzuohuadong_6945244063576014856",
+            "icon": "xiangzuohuadong_6945244063576014856/xiangzuohuadong_6945244063576014856.gif",
+            "hint": "",
+            "tags": "入场",
+            "name_en": "Slide left"
+        }, {
+            "name": "钟摆",
+            "path": "zhongbai_6945244065776943140/zhongbai_6945244065776943140",
+            "icon": "zhongbai_6945244065776943140/zhongbai_6945244065776943140.gif",
+            "hint": "",
+            "tags": "循环",
+            "name_en": "Pendulum"
+        }, {
+            "name": "缩小",
+            "path": "suoxiao_6945244067089989639/suoxiao_6945244067089989639",
+            "icon": "suoxiao_6945244067089989639/suoxiao_6945244067089989639.gif",
+            "hint": "",
+            "tags": "出场",
+            "name_en": "Narrow"
+        }]
+    }
+}

@@ -1,0 +1,68 @@
+{
+  "resource": {
+    "list": [
+      {
+        "order": 0,
+        "name": "线性",
+        "path": "xianxing_7031878287733063724/xianxing_7031878287733063724",
+        "icon": "xianxing_7031878287733063724/xianxing_7031878287733063724.png",
+        "mask": "line",
+        "name_en": "Linear",
+        "hint":"",
+        "tags":""
+      },
+      {
+        "order": 1,
+        "name": "镜面",
+        "path": "jingmian_7031878287733129260/jingmian_7031878287733129260",
+        "icon": "jingmian_7031878287733129260/jingmian_7031878287733129260.png",
+        "mask": "mirror",
+        "name_en": "Mirror",
+        "hint":"",
+        "tags":""
+      },
+      {
+        "order": 2,
+        "name": "圆形",
+        "path": "yuanxing_7031878287732801580/yuanxing_7031878287732801580",
+        "icon": "yuanxing_7031878287732801580/yuanxing_7031878287732801580.png",
+        "mask": "circle",
+        "name_en": "Round",
+        "hint":"",
+        "tags":""
+      },
+      {
+        "order": 3,
+        "name": "矩形",
+        "path": "juxing_7031878287732604972/juxing_7031878287732604972",
+        "icon": "juxing_7031878287732604972/juxing_7031878287732604972.png",
+        "mask": "rectangle",
+        "name_en": "Rectangle",
+        "hint":"",
+        "tags":""
+      },
+      {
+        "order": 4,
+        "name": "爱心",
+        "path": "aixin_7031878287732080684/aixin_7031878287732080684",
+        "icon": "aixin_7031878287732080684/aixin_7031878287732080684.png",
+        "mask": "geometric_shape",
+        "name_en": "Love",
+        "hint":"",
+        "tags":""
+      },
+      {
+        "order": 5,
+        "name": "星形",
+        "path": "xingxing_7031878287731621932/xingxing_7031878287731621932",
+        "icon": "xingxing_7031878287731621932/xingxing_7031878287731621932.png",
+        "mask": "geometric_shape",
+        "name_en": "Star",
+        "hint":"",
+        "tags":""
+      }
+    ]
+  },
+  "type": "videomask",
+  "version": "1.0"
+}

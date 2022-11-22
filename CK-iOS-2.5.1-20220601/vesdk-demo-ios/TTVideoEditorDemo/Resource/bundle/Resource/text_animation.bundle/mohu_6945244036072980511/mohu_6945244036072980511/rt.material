@@ -1,0 +1,29 @@
+%YAML 1.1
+--- !Material &1
+name: rt_material
+guid: {a: 17240981473005822995, b: 8299172876412945304}
+xshader: {localId: 1, path: rt.xshader}
+properties:
+  __class: PropertySheet
+  name: rt_propertySheet
+  guid: {a: 16449399243257062135, b: 11280187886423676335}
+  floatmap:
+    __class: Map
+    _alpha: 1
+  vec4map:
+    __class: Map
+  vec3map:
+    __class: Map
+  vec2map:
+    __class: Map
+    eraseUV: {x: 0, y: 0}
+  mat4map:
+    __class: Map
+  texmap:
+    __class: Map
+  intmap:
+    __class: Map
+renderQueue: 0
+enabledMacros:
+  __class: Map
+mshaderPath: ""

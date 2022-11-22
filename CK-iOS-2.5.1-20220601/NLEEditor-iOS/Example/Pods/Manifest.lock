@@ -1,0 +1,16 @@
+PODS:
+  - NLEEditor-iOS (0.1.0)
+
+DEPENDENCIES:
+  - NLEEditor-iOS (from `../`)
+
+EXTERNAL SOURCES:
+  NLEEditor-iOS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NLEEditor-iOS: f70e7a04e516c3dbe031588128a92daf2b15da10
+
+PODFILE CHECKSUM: c334796e91fd50662053fc5319edd783dd81f8bc
+
+COCOAPODS: 1.9.3

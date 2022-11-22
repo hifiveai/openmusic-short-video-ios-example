@@ -1,0 +1,16 @@
+PODS:
+  - NLEEditorUI (0.1.0)
+
+DEPENDENCIES:
+  - NLEEditorUI (from `../`)
+
+EXTERNAL SOURCES:
+  NLEEditorUI:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NLEEditorUI: 3f31615755d3eb8519ed4a5352e5f06073cecbdc
+
+PODFILE CHECKSUM: 9db50ecb5c13676a5be965e1982fd3e2511ddc6b
+
+COCOAPODS: 1.10.1

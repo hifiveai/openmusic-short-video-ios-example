@@ -1,0 +1,46 @@
+{
+    "type": "transitions",
+    "resource": {
+        "list": [{
+            "name": "模糊",
+            "path": "mohu_6945244041575579662/mohu_6945244041575579662",
+            "icon": "mohu_6945244041575579662/mohu_6945244041575579662.gif",
+            "hint": "",
+            "tags": "基础转场",
+            "isOverlap": true,
+            "name_en": "Blur"
+        }, {
+            "name": "渐变擦除",
+            "path": "jianbiancachu_6945244056222187557/jianbiancachu_6945244056222187557",
+            "icon": "jianbiancachu_6945244056222187557/jianbiancachu_6945244056222187557.gif",
+            "hint": "",
+            "tags": "基础转场",
+            "isOverlap": true,
+            "name_en": "FadeErase"
+        }, {
+            "name": "泛光",
+            "path": "fanguang_6945244064438861855/fanguang_6945244064438861855",
+            "icon": "fanguang_6945244064438861855/fanguang_6945244064438861855.gif",
+            "hint": "",
+            "tags": "基础转场",
+            "isOverlap": true,
+            "name_en": "Floodlight"
+        }, {
+            "name": "叠加",
+            "path": "diejia_6945244065776549924/diejia_6945244065776549924",
+            "icon": "diejia_6945244065776549924/diejia_6945244065776549924.gif",
+            "hint": "",
+            "tags": "基础转场",
+            "isOverlap": true,
+            "name_en": "Overlay"
+        }, {
+            "name": "闪白",
+            "path": "shanbai_6945244067438805005/shanbai_6945244067438805005",
+            "icon": "shanbai_6945244067438805005/shanbai_6945244067438805005.gif",
+            "hint": "",
+            "tags": "基础转场",
+            "isOverlap": false,
+            "name_en": "FlashWhite"
+        }]
+    }
+}

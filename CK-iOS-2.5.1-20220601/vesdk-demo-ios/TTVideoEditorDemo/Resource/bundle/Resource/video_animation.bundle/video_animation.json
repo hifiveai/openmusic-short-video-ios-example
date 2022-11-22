@@ -1,0 +1,111 @@
+{
+    "type": "video animation",
+    "resource": {
+        "list": [{
+            "name": "向左滑动",
+            "path": "xiangzuohuadong_6945244011125227550/xiangzuohuadong_6945244011125227550",
+            "icon": "xiangzuohuadong_6945244011125227550/xiangzuohuadong_6945244011125227550.gif",
+            "hint": "",
+            "tags": "出场",
+            "name_en": "Slide left"
+        }, {
+            "name": "轻微放大",
+            "path": "qingweifangda_6945244015910797325/qingweifangda_6945244015910797325",
+            "icon": "qingweifangda_6945244015910797325/qingweifangda_6945244015910797325.gif",
+            "hint": "",
+            "tags": "出场",
+            "name_en": "Larger"
+        }, {
+            "name": "旋转缩小",
+            "path": "xuanzhuansuoxiao_6945244024869601294/xuanzhuansuoxiao_6945244024869601294",
+            "icon": "xuanzhuansuoxiao_6945244024869601294/xuanzhuansuoxiao_6945244024869601294.gif",
+            "hint": "",
+            "tags": "组合",
+            "name_en": "SpinShrink"
+        }, {
+            "name": "方片转动",
+            "path": "fangpianzhuandong_6945244030105206792/fangpianzhuandong_6945244030105206792",
+            "icon": "fangpianzhuandong_6945244030105206792/fangpianzhuandong_6945244030105206792.gif",
+            "hint": "",
+            "tags": "组合",
+            "name_en": "SquareSpin"
+        }, {
+            "name": "缩小旋转",
+            "path": "suoxiaoxuanzhuan_6945244036610441229/suoxiaoxuanzhuan_6945244036610441229",
+            "icon": "suoxiaoxuanzhuan_6945244036610441229/suoxiaoxuanzhuan_6945244036610441229.gif",
+            "hint": "",
+            "tags": "组合",
+            "name_en": "ShrinkSpin"
+        }, {
+            "name": "渐显",
+            "path": "jianxian_6945244038560759838/jianxian_6945244038560759838",
+            "icon": "jianxian_6945244038560759838/jianxian_6945244038560759838.gif",
+            "hint": "",
+            "tags": "入场",
+            "name_en": "Progressive"
+        }, {
+            "name": "降落旋转",
+            "path": "jianglaxuanzhuan_6945244045983858718/jianglaxuanzhuan_6945244045983858718",
+            "icon": "jianglaxuanzhuan_6945244045983858718/jianglaxuanzhuan_6945244045983858718.gif",
+            "hint": "",
+            "tags": "组合",
+            "name_en": "Drop spin"
+        }, {
+            "name": "缩小",
+            "path": "suoxiao_6945244042130341924/suoxiao_6945244042130341924",
+            "icon": "suoxiao_6945244042130341924/suoxiao_6945244042130341924.gif",
+            "hint": "",
+            "tags": "入场",
+            "name_en": "Narrow"
+        }, {
+            "name": "渐隐",
+            "path": "jianyin_6945244050585829383/jianyin_6945244050585829383",
+            "icon": "jianyin_6945244050585829383/jianyin_6945244050585829383.gif",
+            "hint": "",
+            "tags": "出场",
+            "name_en": "Fade away"
+        }, {
+            "name": "向左滑动",
+            "path": "xiangzuohuadong_6945244053379039240/xiangzuohuadong_6945244053379039240",
+            "icon": "xiangzuohuadong_6945244053379039240/xiangzuohuadong_6945244053379039240.gif",
+            "hint": "",
+            "tags": "入场",
+            "name_en": "Slide left"
+        }, {
+            "name": "缩小",
+            "path": "suoxiao_6945244059179237407/suoxiao_6945244059179237407",
+            "icon": "suoxiao_6945244059179237407/suoxiao_6945244059179237407.gif",
+            "hint": "",
+            "tags": "出场",
+            "name_en": "Narrow"
+        }, {
+            "name": "旋转降落",
+            "path": "xuanzhuanjiangla_6945244064871956517/xuanzhuanjiangla_6945244064871956517",
+            "icon": "xuanzhuanjiangla_6945244064871956517/xuanzhuanjiangla_6945244064871956517.gif",
+            "hint": "",
+            "tags": "组合",
+            "name_en": "Spin down"
+        }, {
+            "name": "放大",
+            "path": "fangda_6945244065441660942/fangda_6945244065441660942",
+            "icon": "fangda_6945244065441660942/fangda_6945244065441660942.gif",
+            "hint": "",
+            "tags": "入场",
+            "name_en": "Zoom in"
+        }, {
+            "name": "轻微放大",
+            "path": "qingweifangda_6945244067090579463/qingweifangda_6945244067090579463",
+            "icon": "qingweifangda_6945244067090579463/qingweifangda_6945244067090579463.gif",
+            "hint": "",
+            "tags": "入场",
+            "name_en": "Larger"
+        }, {
+            "name": "放大",
+            "path": "fangda_6945244067089563655/fangda_6945244067089563655",
+            "icon": "fangda_6945244067089563655/fangda_6945244067089563655.gif",
+            "hint": "",
+            "tags": "出场",
+            "name_en": "Zoom in"
+        }]
+    }
+}

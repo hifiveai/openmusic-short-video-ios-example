@@ -1,0 +1,22 @@
+%YAML 1.1
+--- !Prefab &1
+name: anim_Prefab
+entities:
+  - {localId: 10}
+visible: true
+config:
+  __class: Map
+--- !Entity &10
+name: root_entity
+selfvisible: true
+tag: 0
+components:
+  - {localId: 11}
+layer: 0
+--- !ScriptComponent &11
+name: script
+enabled: true
+path: RotateFlyOut.lua
+properties: 
+  __class: Map
+

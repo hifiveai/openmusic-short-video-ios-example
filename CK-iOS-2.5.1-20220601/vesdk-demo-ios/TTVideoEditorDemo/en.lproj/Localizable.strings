@@ -1,0 +1,1500 @@
+
+"ck_ablum_not_supported" = "Calling the album is not supported.";
+
+"ck_add" = "Add";
+
+"ck_add_adjust" = "Add adjust";
+
+"ck_add_audio" = "Audio";
+
+"ck_add_audio_record" = "Add recording";
+
+"ck_add_effect" = "Add effects";
+
+"ck_add_epilogue" = "Add epilogue";
+
+"ck_add_filter" = "Add filter";
+
+"ck_add_image_sticker" = "Add stickers";
+
+"ck_add_music" = "Add music";
+
+"ck_add_pip" = "Add overlay";
+
+"ck_add_sound_effect" = "Sound effects";
+
+"ck_add_sticker" = "Add stickers";
+
+"ck_add_text" = "Add text";
+
+"ck_add_text_sticker" = "Add text";
+
+"ck_adjust" = "Adjust";
+
+"ck_adjust_reset_content" = "Are you sure to reset all parameters?";
+
+"ck_adjust_reset_current_position_content" = "Are you sure to reset all parameters?";
+
+"ck_adjust_reset_title" = "Reset parameters";
+
+"ck_age" = "Age";
+
+"ck_all_dir_name" = "All";
+
+"ck_all_image" = "Photos";
+
+"ck_all_video" = "Videos";
+
+"ck_anger" = "Angry";
+
+"ck_anim_all" = "Combo";
+
+"ck_anim_duration" = "Duration";
+
+"ck_anim_in" = "In";
+
+"ck_anim_out" = "Out";
+
+"ck_animation" = "Animation";
+
+"ck_animation_group" = "Combo";
+
+"ck_animation_in" = "In";
+
+"ck_animation_out" = "Out";
+
+"ck_animoji_boy" = "Boy";
+
+"ck_animoji_girl" = "Girl";
+
+"ck_applaud" = "Clap";
+
+"ck_applied_range" = "Target";
+
+"ck_apply_all" = "Apply to all";
+
+"ck_apply_text_sticker_cover" = "Add text";
+
+"ck_arrangement" = "Spacing";
+
+"ck_audio" = "Audio";
+
+"ck_audio_downloading" = "Downloading";
+
+"ck_audio_fade_in" = "Fade-in duration";
+
+"ck_audio_fade_out" = "Fade out duration";
+
+"ck_audio_generate_success" = "Audio generated. Check it in the audio module.";
+
+"ck_authentication_failed" = "Authentication problem occured~";
+
+"ck_authorization_presetting_body" = "In order to choose creative materials more freely and obtain richer video effects, it is recommended that you allow access to all photos";
+
+"ck_authorization_presetting_start" = "Allow access";
+
+"ck_authorization_presetting_title" = "Allow access to your photos";
+
+"ck_auto_recognize_subtitle" = "Auto-recognize subtitles ";
+
+"ck_back" = "Back";
+
+"ck_back_light" = "Backlight";
+
+"ck_back_off" = "Back off";
+
+"ck_back_to_home" = "Back to Home";
+
+"ck_basic" = "Basic";
+
+"ck_beautify" = "Beauty Effects";
+
+"ck_beauty" = "Beauty Score";
+
+"ck_beauty_body_arm_slim" = "Arm";
+
+"ck_beauty_body_breast_enlarge" = "Breast";
+
+"ck_beauty_body_hip_enhance" = "Hip";
+
+"ck_beauty_body_leg_slim" = "Leg Size";
+
+"ck_beauty_body_long_leg" = "Leg Lenth";
+
+"ck_beauty_body_neck_enhance" = "Neck";
+
+"ck_beauty_body_shrink_head" = "Head";
+
+"ck_beauty_body_thin" = "Body";
+
+"ck_beauty_body_waist_slim" = "Waist ";
+
+"ck_beauty_face_brighten_eye" = "Eye Sparkle";
+
+"ck_beauty_face_eye_plump" = "Aegyo-sal";
+
+"ck_beauty_face_eye_single_to_double_eyelid" = "Eyelids";
+
+"ck_beauty_face_remove_pouch" = "Dark Circle";
+
+"ck_beauty_face_sharpen" = "Sharpening";
+
+"ck_beauty_face_smile_folds" = "Laugh Line";
+
+"ck_beauty_face_smooth" = "Buffing";
+
+"ck_beauty_face_whiten" = "Whitening";
+
+"ck_beauty_face_whiten_teeth" = "Teeth Whitening";
+
+"ck_beauty_reshape_cheek" = "Cheek";
+
+"ck_beauty_reshape_chin" = "Chin";
+
+"ck_beauty_reshape_dark_circle" = "Dark Circle";
+
+"ck_beauty_reshape_decree" = "Laugh Line";
+
+"ck_beauty_reshape_eye" = "Eye Size";
+
+"ck_beauty_reshape_eye_move" = "Eye Position";
+
+"ck_beauty_reshape_eye_rotate" = "Eye Angle";
+
+"ck_beauty_reshape_eye_spacing" = "Eye Space";
+
+"ck_beauty_reshape_face_cut" = "Upper Face Width";
+
+"ck_beauty_reshape_face_overall" = "Lower Width";
+
+"ck_beauty_reshape_face_small" = "Face Size";
+
+"ck_beauty_reshape_forehead" = "Forehead";
+
+"ck_beauty_reshape_jaw" = "Jaw";
+
+"ck_beauty_reshape_mouth_move" = "Mouth Position";
+
+"ck_beauty_reshape_mouth_smile" = "Smile";
+
+"ck_beauty_reshape_mouth_zoom" = "Mouth Shape";
+
+"ck_beauty_reshape_nose_lean" = "Nose Width";
+
+"ck_beauty_reshape_nose_long" = "Nose Length";
+
+"ck_black" = "Black";
+
+"ck_blusher_mitao" = "Peach";
+
+"ck_blusher_qiaopi" = "Smart";
+
+"ck_blusher_richang" = "Daily";
+
+"ck_blusher_shaishang" = "Sunburn";
+
+"ck_blusher_shaishanghong" = "Sunburn Red";
+
+"ck_blusher_tiancheng" = "Sweet Orange";
+
+"ck_blusher_weixunfen" = "Tipsy";
+
+"ck_blusher_xinji" = "Scheming";
+
+"ck_blusher_yuanqiju" = "Vivid Orange";
+
+"ck_bold_italic" = "Bold italic";
+
+"ck_brand_rec" = "License plate detection";
+
+"ck_brightness" = "Brightness";
+
+"ck_brown" = "Indian";
+
+"ck_camera_effect" = "Camera effects";
+
+"ck_cancel" = "Cancel";
+
+"ck_cant_play_video" = "No program to play.";
+
+"ck_canvas" = "Canvas";
+
+"ck_canvas_blur" = "Blur";
+
+"ck_canvas_color" = "Color";
+
+"ck_canvas_style" = "Background";
+
+"ck_car_blur" = "Is it blurred?";
+
+"ck_car_detect" = "Vehicle detection";
+
+"ck_car_light" = "Is it bright?";
+
+"ck_cat" = "Cat";
+
+"ck_change_filter" = "Switch filter";
+
+"ck_change_scan_mode" = "Switch scan mode";
+
+"ck_change_voice" = "Voice effects";
+
+"ck_choose" = "Select a portrait";
+
+"ck_click_too_quick" = "Please try again later";
+
+"ck_close" = "Close";
+
+"ck_closing_eye" = "Blink";
+
+"ck_cloudy" = "Cloudy";
+
+"ck_color_fade" = "Fading";
+
+"ck_color_temperature" = "Color temperature";
+
+"ck_compose" = "Synthesis";
+
+"ck_compose_failed" = "Synthesis failure ret:";
+
+"ck_confirm" = "OK";
+
+"ck_confuse" = "Confused";
+
+"ck_content_will_disappear" = "Edited content will disappear after exiting.";
+
+"ck_continue_edit" = "Continue editing";
+
+"ck_contrast" = "Contrast";
+
+"ck_copy" = "Copy";
+
+"ck_cost" = "Time consumed";
+
+"ck_cost_default" = "Time consumed: 0 ms";
+
+"ck_count_string" = "No need to translate";
+
+"ck_crop" = "Crop";
+
+"ck_current_face" = "Face(s)";
+
+"ck_current_no_more" = "No more for now.";
+
+"ck_curve_speed" = "Curved speed";
+
+"ck_curve_speed_dst_duration" = "%.1f";
+
+"ck_curve_speed_src_duration" = "Duration % .1f";
+
+"ck_curve_speed_value" = "%1$.1f X";
+
+"ck_delete" = "Delete";
+
+"ck_delete_adjust" = "Delete adjust";
+
+"ck_delete_draft_text" = "Delete this draft？";
+
+"ck_delete_draft_title" = "Delete draft";
+
+"ck_delete_filter" = "Delete filter";
+
+"ck_delete_keyframe" = "Delete keyframe";
+
+"ck_detect" = "Detection";
+
+"ck_detect_count" = "Total detections";
+
+"ck_dist" = "Distance (m):";
+
+"ck_dog" = "Dog";
+
+"ck_done" = "Done";
+
+"ck_download_fail" = "Download failed.";
+
+"ck_download_sticker" = "Download stickers";
+
+"ck_download_success" = "Download successfully";
+
+"ck_drag_preview_music" = "Drag for audition";
+
+"ck_drag_select_show_region" = "Drag or zoom with fingers to scale the screen";
+
+"ck_duet" = "Duet";
+
+"ck_duration" = "Duration";
+
+"ck_dynamic_action_tip" = "Keep a certain distance from the phone\ n until you can see the whole body within the outline.";
+
+"ck_edit" = "Edit";
+
+"ck_edit_clip" = "Edit";
+
+"ck_edit_image_cover" = "Edit";
+
+"ck_effect" = "Effects";
+
+"ck_enable" = "On";
+
+"ck_engine_error_no_initialization" = "The voice engine is not initialized. Please try again after initialization.";
+
+"ck_enter_text" = "Enter text";
+
+"ck_epilogue" = "End";
+
+"ck_exclusive_tip" = "Re-open the app to check the effect.";
+
+"ck_exit" = "Exit";
+
+"ck_expression" = "Expressions";
+
+"ck_eye_dadizong" = "Earth Brown";
+
+"ck_eye_jiaotangzong" = "Caramel Brown";
+
+"ck_eye_meizihong" = "Plum Red";
+
+"ck_eye_naichase" = "BubbleTea";
+
+"ck_eye_qizhifen" = "Elegant Pink";
+
+"ck_eye_shaonvfen" = "Light Pink";
+
+"ck_eye_wanxiahong" = "Sunset Glow";
+
+"ck_eye_yanxunzong" = "Smoke Brown";
+
+"ck_eye_yuanqiju" = "Vivid Orange";
+
+"ck_eye_ziranlan" = "Natural Blue";
+
+"ck_eyebrow_BKO1" = "BK01";
+
+"ck_eyebrow_BKO2" = "BK02";
+
+"ck_eyebrow_BKO3" = "BK03";
+
+"ck_eyebrow_BRO1" = "BR01";
+
+"ck_eyebrow_chunhei" = "Pure Black";
+
+"ck_eyebrow_danhui" = "Pale grey";
+
+"ck_eyebrow_ziranhei" = "Natural Black";
+
+"ck_eyelash_nongmi" = "Dense";
+
+"ck_eyelash_shanxing" = "Fan-shaped";
+
+"ck_eyelash_wumei" = "Charming";
+
+"ck_face_106_title" = "106 Face Landmarks";
+
+"ck_face_280_desc" = "Eyeballs + Lips";
+
+"ck_face_280_title" = "280 Face Landmarks";
+
+"ck_face_attr_desc" = "Attribute expression";
+
+"ck_face_attr_title" = "Face Properties";
+
+"ck_face_cluster_class_name" = "Character";
+
+"ck_face_cluster_clean" = "Close";
+
+"ck_face_cluster_null_class_name" = "Unidentified person";
+
+"ck_face_cluster_start" = "Start clustering";
+
+"ck_face_cluster_upload" = "Upload image";
+
+"ck_face_count" = "Current face(s)";
+
+"ck_face_more_than_one" = "More than one face was detected.";
+
+"ck_face_verify_detect" = "Same face detected.";
+
+"ck_face_verify_no_detect" = "Same face not detected.";
+
+"ck_face_verify_none_desc" = "Close contrast";
+
+"ck_face_verify_none_title" = "No";
+
+"ck_face_verify_upload_desc" = "Upload contrast photos";
+
+"ck_face_verify_upload_title" = "Upload photo";
+
+"ck_facial_1" = "Contour 01";
+
+"ck_facial_2" = "Contour 02";
+
+"ck_facial_3" = "Contour 03";
+
+"ck_facial_4" = "Contour 04";
+
+"ck_fade" = "Fade";
+
+"ck_fail_to_split" = "Freeze failed: failed to split the video";
+
+"ck_fear" = "Scared";
+
+"ck_female" = "Female";
+
+"ck_file_check_fail" = "File check failed";
+
+"ck_file_is_empty" = "Freeze failure: the material is empty";
+
+"ck_filter" = "Filter";
+
+"ck_filter_andiao" = "Dark tone";
+
+"ck_filter_beihaidao" = "Hokkaido";
+
+"ck_filter_campan" = "BalloonFlower";
+
+"ck_filter_chalk" = "Soft White";
+
+"ck_filter_chuanwei" = "Spicy";
+
+"ck_filter_chujian" = "FirstSight";
+
+"ck_filter_cream" = "Cream";
+
+"ck_filter_gaojihui" = "PrimerGrey";
+
+"ck_filter_haibianrenxiang" = "BeachPortrait";
+
+"ck_filter_haidao" = "Island";
+
+"ck_filter_heibai" = "BlackWhite";
+
+"ck_filter_hongchun" = "Red Lip";
+
+"ck_filter_hongsefugu" = "VintageRed";
+
+"ck_filter_hongzong" = "Red Brown";
+
+"ck_filter_jiaopian" = "Film";
+
+"ck_filter_jiazhou" = "California";
+
+"ck_filter_jingmi" = "Quiet";
+
+"ck_filter_jiuri" = "Old Days";
+
+"ck_filter_julandiao" = "OrangeyBlue";
+
+"ck_filter_landiaojiaopian" = "Blue Film";
+
+"ck_filter_lengyang" = "CoolOxygen";
+
+"ck_filter_lianaichaotian" = "Sweet Love";
+
+"ck_filter_lolita" = "Lolita";
+
+"ck_filter_lvtu" = "Journey";
+
+"ck_filter_makalong" = "Macaroon";
+
+"ck_filter_meishijiaopian" = "Movie";
+
+"ck_filter_mitao" = "Peach";
+
+"ck_filter_musi" = "Mousse";
+
+"ck_filter_naicha" = "BubbleTea";
+
+"ck_filter_normal" = "Nature";
+
+"ck_filter_nuanhuang" = "Warm Yellow";
+
+"ck_filter_nuanyang" = "Sun";
+
+"ck_filter_oxgen" = "Oxygen";
+
+"ck_filter_paomo" = "Bubble";
+
+"ck_filter_qianxia" = "EarlySummer";
+
+"ck_filter_qingtou" = "Clear";
+
+"ck_filter_riza" = "JapanMagazine";
+
+"ck_filter_shise" = "Yummy";
+
+"ck_filter_soft" = "soft";
+
+"ck_filter_suda" = "Soda";
+
+"ck_filter_tuise" = "Fading";
+
+"ck_filter_wenrou" = "Gentle";
+
+"ck_filter_wuyu" = "Story";
+
+"ck_filter_xiyang" = "Sunset";
+
+"ck_filter_xiyatu" = "Seattle";
+
+"ck_filter_yese" = "Night";
+
+"ck_filter_yinhua" = "Sakura";
+
+"ck_filter_ziran2" = "Natural 2";
+
+"ck_flip" = "Flip";
+
+"ck_font" = "Font";
+
+"ck_free_crop_mode" = "Freedom";
+
+"ck_free_duration" = "Unlimited duration";
+
+"ck_freeze" = "Freeze";
+
+"ck_freeze_failed" = "Freeze frame failure";
+
+"ck_gaze_inside" = "On the screen";
+
+"ck_gender" = "Gender";
+
+"ck_general_object_type" = "Type";
+
+"ck_gesture" = "Gestures:";
+
+"ck_gif" = "GIF";
+
+"ck_global" = "Global";
+
+"ck_hair_anlan" = "Dark Blue";
+
+"ck_hair_molv" = "Dark Green";
+
+"ck_hair_shenzong" = "Dark Brown";
+
+"ck_hand_detect_title" = "Gesture detection";
+
+"ck_happiness" = "Happiness score";
+
+"ck_happy" = "Happy";
+
+"ck_has_apply_all" = "Applied to all";
+
+"ck_has_saved_local_and_draft" = "Saved to local and draft";
+
+"ck_head_segment_desc" = "Head segmentation algorithm";
+
+"ck_head_segment_title" = "Head segmentation";
+
+"ck_highlight" = "Highlight";
+
+"ck_hold_to_record" = "Hold to record";
+
+"ck_home_cut_same" = "Magic Template";
+
+"ck_home_drafts" = "Drafts";
+
+"ck_home_edit" = "New Project";
+
+"ck_home_hepai" = "Duet";
+
+"ck_home_one" = "One-touch video";
+
+"ck_home_record" = "Camera";
+
+"ck_hot" = "Hot";
+
+"ck_hue" = "Hue";
+
+"ck_human" = "People";
+
+"ck_image_sticker" = "Stickers";
+
+"ck_import_editing" = "Import to edit";
+
+"ck_import_from_album" = "Upload";
+
+"ck_increase_zoom" = "Zoom + 0.1";
+
+"ck_indoor_weak" = "Indoor, dim lighting";
+
+"ck_indoor_white" = "Indoor, White";
+
+"ck_indoor_yellow" = "Indoor, Yellow";
+
+"ck_init_hand_failed" = "Gesture initialization failed.";
+
+"ck_invalid_license" = "Invalid license";
+
+"ck_invalid_license_file" = "Invalid authorization file.";
+
+"ck_jump_jack" = "Jumping Jacks";
+
+"ck_keyframe" = "Keyframe";
+
+"ck_left_eye_open" = "Left eye";
+
+"ck_library_name" = "Media library";
+
+"ck_license_check_fail" = "Authorization failed";
+
+"ck_light_cls_credibility" = "Credibility";
+
+"ck_light_cls_type" = "Type";
+
+"ck_light_sensation" = "Exposure";
+
+"ck_lip_doushafen" = "Puree Pink";
+
+"ck_lip_fuguhong" = "Vintage Red";
+
+"ck_lip_fuguhong_3_8" = "Vintage Red (3.8)";
+
+"ck_lip_huluopohong" = "Carrot Red";
+
+"ck_lip_huoliju" = "Vital Orange";
+
+"ck_lip_meizise" = "Plum";
+
+"ck_lip_shanhuse" = "Coral Color";
+
+"ck_lip_shaonvfen" = "Light Pink";
+
+"ck_lip_sironghong" = "Velvet Red";
+
+"ck_lip_xiguahong" = "Watermelon Red";
+
+"ck_lip_xiyouse" = "Grapefruit";
+
+"ck_lip_yingsuhong" = "Poppy Red";
+
+"ck_lip_yuanqiju" = "Vivid Orange";
+
+"ck_lip_zangjuse" = "Brown Orange";
+
+"ck_list_empty" = "Empty list data.";
+
+"ck_loading" = "Loading...";
+
+"ck_local" = "Local";
+
+"ck_local_music" = "Local music";
+
+"ck_local_music_list_add" = "Add local music from Apple Music";
+
+"ck_local_music_list_empty" = "Local music data is empty...";
+
+"ck_log_draft_recover_failed" = "Failed to recover draft! state:";
+
+"ck_logo" = "ByteDance AI";
+
+"ck_main_track_video" = "Main video";
+
+"ck_makeup_blusher" = "Blusher";
+
+"ck_makeup_eye" = "Eye Shadow";
+
+"ck_makeup_eyebrow" = "Eyebrows";
+
+"ck_makeup_eyelash" = "Eyelashes";
+
+"ck_makeup_facial" = "Shadow";
+
+"ck_makeup_hair" = "Hair Dye";
+
+"ck_makeup_lip" = "Lipstick";
+
+"ck_makeup_pupil" = "Pupil Coloring";
+
+"ck_male" = "Male";
+
+"ck_material_type_error" = "Material type error";
+
+"ck_mix_mode" = "Mixed mode";
+
+"ck_mouth_open" = "Mouth";
+
+"ck_msg_amount_limit" = "Reached the amount limit.";
+
+"ck_msg_size_limit" = "Please compress and cut the videos before uploading, the maximum size is ";
+
+"ck_music_collection" = "Music Collection";
+
+"ck_music_library" = "Music Library";
+
+"ck_mute_original_audio" = "Mute";
+
+"ck_nausea" = "Depressed";
+
+"ck_network_error" = "Network connection failed. Please check network settings.";
+
+"ck_network_error_click_retry" = "Network error. Click to retry.";
+
+"ck_network_music_list_empty" = "Music is being supplemented...";
+
+"ck_night" = "Night";
+
+"ck_no" = "No";
+
+"ck_no_face_detected" = "No face detected";
+
+"ck_no_timing" = "No timing";
+
+"ck_nod" = "Nod";
+
+"ck_none" = "No";
+
+"ck_normal_speed" = "Speed";
+
+"ck_not_select_slot" = "Freeze failed: please move the cursor to the selected material";
+
+"ck_notice" = "Notice";
+
+"ck_opacity" = "Opacity";
+
+"ck_open_car_detect_fist" = "Please turn on vehicle detection first.";
+
+"ck_open_face106_fist" = "Please turn on the detection switch for 106 key face landmarks first.";
+
+"ck_open_mouth" = "Open your mouth.";
+
+"ck_original_picture" = "Full image";
+
+"ck_pet_face_title" = "Pet face";
+
+"ck_pet_face_type" = "Pet";
+
+"ck_pip" = "Overlay";
+
+"ck_pitch" = "Pitch";
+
+"ck_poker_face" = "Off";
+
+"ck_portait_matting_desc" = "Body segmentation algorithm";
+
+"ck_portait_matting_title" = "Body segmentation";
+
+"ck_pout" = "Pout";
+
+"ck_preview" = "Preview";
+
+"ck_props" = "Props";
+
+"ck_punching" = "Punch";
+
+"ck_pupil_babizi" = "Barbie Purple";
+
+"ck_pupil_chujianhui" = "Light Grey";
+
+"ck_pupil_hunxuelan" = "Mix Blue";
+
+"ck_pupil_hunxuelv" = "Mix Green";
+
+"ck_pupil_hunxuezong" = "Mix Brown";
+
+"ck_pupil_kekezong" = "Cocoa Brown";
+
+"ck_pupil_mitaofen" = "Peach Pink";
+
+"ck_pupil_shuiguanghei" = "Aqua Black";
+
+"ck_pupil_xingkonglan" = "Starry Blue";
+
+"ck_push_up" = "Push-ups";
+
+"ck_race" = "Skin color";
+
+"ck_raise_eyebrow" = "Eyebrow raise";
+
+"ck_ratio_origin" = "Primitive";
+
+"ck_ratio_origin_1_16" = "Original - 9:16";
+
+"ck_read_external_storage" = "Reading storage permission is required.";
+
+"ck_recoding" = "Recording";
+
+"ck_recognize_clip_no_volume" = "Unable to recognize audio and video with sound.";
+
+"ck_recognize_clip_too_short" = "The identification clip should be longer than 1 second.";
+
+"ck_recognize_failed_please_retry" = "Recognition failed. Please try again.";
+
+"ck_recognize_lyric" = "Recognize lyrics";
+
+"ck_recognize_ongoing" = "Identifying subtitles ... ";
+
+"ck_recognize_success" = "Recognized successfully. Subtitles have been automatically generated.";
+
+"ck_recognize_support_chinese_song_only" = "Mandarin songs only";
+
+"ck_record" = "Shoot";
+
+"ck_record_audio" = "Recording";
+
+"ck_record_audio_too_short" = "The recording is too short.";
+
+"ck_record_insert" = "Recording %s";
+
+"ck_record_photo" = "Shoot";
+
+"ck_record_video" = "Camera";
+
+"ck_redo_keyframe_success" = "Redo keyframe successfully";
+
+"ck_reduce_zoom" = "Zoom -0.1";
+
+"ck_remove" = "Delete";
+
+"ck_remove_current_lyric" = "Empty the existing lyrics at the same time.";
+
+"ck_remove_current_subtitle" = "Empty existing subtitles at the same time.";
+
+"ck_replace" = "Replace";
+
+"ck_replace_effect" = "Replace effects";
+
+"ck_reset" = "Reset";
+
+"ck_resource_fail" = "Resource preparation failed.";
+
+"ck_resource_initializing" = "Initializing resources. Please be patient.";
+
+"ck_resource_prepare" = "Preparing resource...";
+
+"ck_resource_unzip_failed" = "Resource decompression failed!";
+
+"ck_reverse" = "Reverse";
+
+"ck_reverse_play_cancel" = "Cancel reverse";
+
+"ck_reverse_play_success" = "Reverse successful";
+
+"ck_reverse_video_failed" = "Failed to reverse videos.";
+
+"ck_reversing" = "Reversing";
+
+"ck_reversing_video" = "Generating reverse video ... ";
+
+"ck_right_eye_open" = "Right Eye";
+
+"ck_roll" = "Roll";
+
+"ck_rotate" = "Rotate";
+
+"ck_row_fast" = "Half-body fast rowing";
+
+"ck_row_fast_full" = "Full-body fast rowing";
+
+"ck_row_slow" = "Half-body slow rowing";
+
+"ck_row_slow_full" = "Full body slow rowing";
+
+"ck_sad" = "Sad";
+
+"ck_saturation" = "Saturation";
+
+"ck_save" = "Save";
+
+"ck_save_content_hint" = "Save your creation as a draft?";
+
+"ck_save_cover" = "Save";
+
+"ck_save_success" = "Saved:";
+
+"ck_seek_choose_cover" = "Swipe to select cover";
+
+"ck_seeting_face_attribute" = "Face properties";
+
+"ck_seeting_face_attribute_desc" = "Face properties and expressions";
+
+"ck_segment_hair_desc" = "Hair dyeing algorithm";
+
+"ck_segment_hair_title" = "Hair dyeing ";
+
+"ck_segment_segment_desc" = "Body segmentation algorithm";
+
+"ck_segment_segment_title" = "Body segmentation";
+
+"ck_select" = "Select";
+
+"ck_select_image_title" = "Select picture";
+
+"ck_select_null" = "Select a file";
+
+"ck_select_title" = "Select pictures and videos";
+
+"ck_select_video_title" = "Select video";
+
+"ck_selector_select_count" = "%s item selected";
+
+"ck_set_cover" = "Cover";
+
+"ck_setting_beauty" = "Beauty Effects";
+
+"ck_setting_big_eye" = "Eye Size";
+
+"ck_setting_blush" = "Blush";
+
+"ck_setting_compare" = "Contrast";
+
+"ck_setting_exclusive" = "Exclusive";
+
+"ck_setting_face" = "106 Face Landmarks";
+
+"ck_setting_face_desc" = "106 Key Face Landmarks and Expressions Recognition";
+
+"ck_setting_face_extra" = "208 Face Landmarks";
+
+"ck_setting_face_extra_desc" = "280 Key face landmarks: Add landmarks for eyeballs and lip on the basis of 106 landmarks.";
+
+"ck_setting_face_lift" = "Lower Face Width";
+
+"ck_setting_face_verify" = "Face verification";
+
+"ck_setting_filter_intensity" = "Filter Intensity";
+
+"ck_setting_hair" = "Hair dyeing";
+
+"ck_setting_hair_desc" = "Hair dyeing algorithm";
+
+"ck_setting_hand" = "Key point tracking and gesture detection";
+
+"ck_setting_human_dist" = "Distance estimation";
+
+"ck_setting_human_dist_desc" = "Distance from face to camera";
+
+"ck_setting_makeup" = "Makeup Effects";
+
+"ck_setting_red_lip" = "Lip";
+
+"ck_setting_skeleton" = "Body motion detection";
+
+"ck_setting_skeleton_desc" = "Real-time detection of 17 key body points";
+
+"ck_setting_skin_grinding" = "Buffing";
+
+"ck_setting_skin_sharpen" = "Sharpening";
+
+"ck_setting_skin_whitening" = "Whitening";
+
+"ck_shadow" = "Shadow";
+
+"ck_shake_head" = "Head Shake";
+
+"ck_sharpe" = "Sharpening";
+
+"ck_similarity" = "Similarity";
+
+"ck_similarity_default" = "Similarity: 0.00";
+
+"ck_sit_up" = "Sit-ups";
+
+"ck_size" = "Size";
+
+"ck_skeleton_detect_desc" = "Body Key Landmarks Tracking ";
+
+"ck_skeleton_detect_title" = "Body motion detection";
+
+"ck_smooth_skin" = "Buffing";
+
+"ck_sound_effect" = "Sound effects";
+
+"ck_speed" = "Speed";
+
+"ck_speed_extremely_quick" = "3x";
+
+"ck_speed_extremely_slow" = "0.3x";
+
+"ck_speed_faster" = "Faster";
+
+"ck_speed_normal" = "Off";
+
+"ck_speed_quick" = "2x";
+
+"ck_speed_slow" = "0.5x";
+
+"ck_speed_slower" = "Slower";
+
+"ck_speed_standard" = "1x";
+
+"ck_split" = "Split";
+
+"ck_squat_front" = "Squat";
+
+"ck_squat_profile" = "Side Squat";
+
+"ck_standard" = "Standard";
+
+"ck_start" = "Start";
+
+"ck_start_recognizing" = "Start recognition";
+
+"ck_std_check_and_retry" = "Please check the link and try again.";
+
+"ck_std_network_error" = "Web Link Error";
+
+"ck_std_retry" = "Retry";
+
+"ck_sticker" = "Stickers";
+
+"ck_sticker_2d" = "2D";
+
+"ck_sticker_3d" = "3D";
+
+"ck_sticker_animation" = "Sticker animation";
+
+"ck_sticker_baibianfaxing" = "Changing Hairstyle";
+
+"ck_sticker_biaobaqixi" = "Eastern Valentines";
+
+"ck_sticker_chitushaonv" = "Cookie Eating Pet";
+
+"ck_sticker_cinamiheti" = "Robot";
+
+"ck_sticker_complex" = "Complex";
+
+"ck_sticker_dianjita" = "Electric Guitar";
+
+"ck_sticker_duobibingdu" = "Avoiding viruses";
+
+"ck_sticker_eldermakup" = "Elderly Makeup";
+
+"ck_sticker_gongzhumianju" = "Princess mask";
+
+"ck_sticker_haoqilongbao" = "Curious Baby Dinosaur";
+
+"ck_sticker_heimaoyanjing" = "Cat with Glasses";
+
+"ck_sticker_huahua" = "Flower";
+
+"ck_sticker_huanletuchiluobo" = "Rabbit Eats Carrots";
+
+"ck_sticker_huanlongshu" = "Dragon Summon";
+
+"ck_sticker_jiamian" = "Mask";
+
+"ck_sticker_jiancedanshenyinyuan" = "Single Detect";
+
+"ck_sticker_jijiantuer" = "Rabbit Ears";
+
+"ck_sticker_katongnan" = "Cartoon boy";
+
+"ck_sticker_katongnv" = "Cartoon Girl";
+
+"ck_sticker_kejiganqueaixiong" = "Robot Bear";
+
+"ck_sticker_kidmakup" = "Kid Makeup";
+
+"ck_sticker_konglongceshi" = "Dinosaur Test";
+
+"ck_sticker_konglongshiguangji" = "Dinosaur Timemachine";
+
+"ck_sticker_kongquegongzhu" = "Peacok Princess";
+
+"ck_sticker_landiaoxueying" = "Blue Snowman";
+
+"ck_sticker_leisituer" = "Lace Rabbit Ears";
+
+"ck_sticker_lizishengdan" = "Snowy Christmas";
+
+"ck_sticker_load_fail" = "Failed to load stickers.";
+
+"ck_sticker_load_success" = "Loaded successfully";
+
+"ck_sticker_luzhihuakuang" = "Recording frame";
+
+"ck_sticker_maobing" = "Cat God";
+
+"ck_sticker_meihaoxinqing" = "Good Mood";
+
+"ck_sticker_mengguiyaotang" = "Halloween";
+
+"ck_sticker_merry_christamas" = "Santa Claus";
+
+"ck_sticker_merry_christamas_tip" = "Scan targets to view the animation.";
+
+"ck_sticker_mofabaoshi" = "Magic Stone";
+
+"ck_sticker_nanguagungun" = "Rolling Pumpkins";
+
+"ck_sticker_nuannuandoupeng" = "Fire Cloak";
+
+"ck_sticker_parse_fail" = "Failed to parse sticker ID.";
+
+"ck_sticker_qianduoduo" = "Money Glasses";
+
+"ck_sticker_qianshuiting" = "Submarine";
+
+"ck_sticker_qrcode" = "Scan to try Creator.";
+
+"ck_sticker_shangke" = "Study Hard";
+
+"ck_sticker_shengrikuaile" = "Happy Birthday";
+
+"ck_sticker_shenshi" = "Gentleman";
+
+"ck_sticker_shuihaimeigeqiutian" = "Autumn";
+
+"ck_sticker_shuiliandong" = "Waterfall";
+
+"ck_sticker_tiaowuhuoji" = "Dancing Turkey";
+
+"ck_sticker_tip_baibianfaxing" = "Nod ";
+
+"ck_sticker_tip_biaobaqixi" = "Try finger heart.";
+
+"ck_sticker_tip_cinamiheti" = "Reach out and blink";
+
+"ck_sticker_tip_dianjita" = "With Cats";
+
+"ck_sticker_tip_haoqilongbao" = "OK gesture";
+
+"ck_sticker_tip_huahua" = "Raise your eyebrows";
+
+"ck_sticker_tip_huanlonghsu" = "Look up and then open your mouth.";
+
+"ck_sticker_tip_invite_friends" = "Try with friends.";
+
+"ck_sticker_tip_jiamian" = "Cover your face to change masks";
+
+"ck_sticker_tip_jiancedanshenyinyuan" = "Reach out";
+
+"ck_sticker_tip_kejiganqueaixiong" = "Try blinking";
+
+"ck_sticker_tip_konglongceshi" = "Blink and nod";
+
+"ck_sticker_tip_konglongshiguangji" = "Nod ";
+
+"ck_sticker_tip_kongquegongzhu" = "Splay your hand to become the peacock princess.";
+
+"ck_sticker_tip_landiaoxueying" = "Winter is coming, let's film together";
+
+"ck_sticker_tip_lizishengdan" = "Heart fingers to summon elk";
+
+"ck_sticker_tip_luzhihuakuang" = "Tap the screen";
+
+"ck_sticker_tip_meihaoxinqing" = "Smile";
+
+"ck_sticker_tip_mengguiyaotang" = "Splay your fingers";
+
+"ck_sticker_tip_mofabaoshi" = "Splay your fingers then make a fist.";
+
+"ck_sticker_tip_nuannuandoupeng" = "Pouting";
+
+"ck_sticker_tip_qianduoduo" = "Pistol";
+
+"ck_sticker_tip_qianshuiting" = "Move your face to avoid obstacles.";
+
+"ck_sticker_tip_shangke" = "Nod";
+
+"ck_sticker_tip_shuihaimeigeqiutian" = "Open mouth and sneeze";
+
+"ck_sticker_tip_shuiliandong" = "Reach out, shake your head, nod your head";
+
+"ck_sticker_tip_snap_with_cats" = "Shoot with cats";
+
+"ck_sticker_tip_tiaowuhuoji" = "Shoot the screen";
+
+"ck_sticker_tip_try_blink" = "Try blinking";
+
+"ck_sticker_tip_try_nod" = "Nod your head.";
+
+"ck_sticker_tip_try_open_mouth" = "Open your mouth";
+
+"ck_sticker_tip_tryshoe" = "Try to face the rear camera to your feet.";
+
+"ck_sticker_tip_weilandongrizhuang" = "Blink and pout.";
+
+"ck_sticker_tip_xiaribingshuang" = "Hold out your palm";
+
+"ck_sticker_tip_xiatiandefeng" = "Shake your head.";
+
+"ck_sticker_tip_yanlidoushini" = "Blink";
+
+"ck_sticker_tip_zhuluojimaoxian" = "Shake your head to become different dinosaurs.";
+
+"ck_sticker_tip_zisemeihuo" = "Nod and blink";
+
+"ck_sticker_tryshoe01" = "Shoes Tryon 1";
+
+"ck_sticker_tryshoe02" = "Shoes Tryon 2";
+
+"ck_sticker_tryshoe03" = "Shoes Tryon 3";
+
+"ck_sticker_weilandongrizhuang" = "Blue Winter";
+
+"ck_sticker_without_license" = "No authorization file was found for the material.";
+
+"ck_sticker_wochaotian" = "Super Sweet";
+
+"ck_sticker_xiaribingshuang" = "Cool Summer";
+
+"ck_sticker_xiatiandefeng" = "Summer Wind";
+
+"ck_sticker_xuyuanping" = "Wishing Bottle";
+
+"ck_sticker_yanlidoushini" = "Apple of my eye";
+
+"ck_sticker_zhaocaimao" = "Lucky cat";
+
+"ck_sticker_zhuluojimaoxian" = "Jurassic Adventure";
+
+"ck_sticker_zhutouzhuer" = "Piggy";
+
+"ck_sticker_zisemeihuo" = "Purple Charm";
+
+"ck_student_id_ocr_op" = "Student ID recognition";
+
+"ck_student_id_ocr_title" = "Student ID:";
+
+"ck_sunny" = "Sunny";
+
+"ck_surprise" = "Surprised";
+
+"ck_system" = "System";
+
+"ck_tab_body" = "Body";
+
+"ck_tab_body_cutout" = "Body segmentation";
+
+"ck_tab_car" = "Vehicle";
+
+"ck_tab_concentration" = "Concentration estimation";
+
+"ck_tab_face" = "Face";
+
+"ck_tab_face_attr" = "Face Properties";
+
+"ck_tab_face_beautification" = "Beauty effects";
+
+"ck_tab_face_beauty_body" = "Body Shaping";
+
+"ck_tab_face_beauty_reshape" = "Microplastic";
+
+"ck_tab_face_cluster" = "Face clustering";
+
+"ck_tab_face_makeup" = "Makeup";
+
+"ck_tab_face_verify" = "Face verification";
+
+"ck_tab_filter" = "Filter";
+
+"ck_tab_gaze" = "Gaze detection";
+
+"ck_tab_general_object" = "General Object Detect";
+
+"ck_tab_hair_cutout" = "Hair segmentation";
+
+"ck_tab_hand" = "Gesture";
+
+"ck_tab_human_dist" = "Distance estimation";
+
+"ck_tab_light_cls" = "Light condition detection";
+
+"ck_tab_pet_face" = "Pet Face";
+
+"ck_tab_segmentation" = "Segmentation";
+
+"ck_tab_sticker" = "Stickers";
+
+"ck_tab_student_id_ocr" = "Student ID recognition";
+
+"ck_tab_student_id_ocr_test" = "Student ID test";
+
+"ck_tab_video_cls" = "Video classification";
+
+"ck_test" = "Test";
+
+"ck_text" = "Text";
+
+"ck_text_anim_duration" = "Duration";
+
+"ck_text_anim_in" = "In";
+
+"ck_text_anim_loop" = "Loop";
+
+"ck_text_anim_out" = "Out";
+
+"ck_text_anim_quick" = "Fast";
+
+"ck_text_anim_slow" = "Slow";
+
+"ck_text_anima" = "Animation";
+
+"ck_text_background" = "Background";
+
+"ck_text_border" = "Stroke";
+
+"ck_text_bubble" = "Bubble";
+
+"ck_text_flower" = "Art Font";
+
+"ck_text_keyboard" = "Keyboard";
+
+"ck_text_reading" = "TTS";
+
+"ck_text_sticker_char_spacing" = "Character";
+
+"ck_text_sticker_line_gap" = "Line";
+
+"ck_text_sticker_outline_width" = "Thickness";
+
+"ck_text_sticker_shadow_angle" = "Angle";
+
+"ck_text_sticker_shadow_offset" = "Distance";
+
+"ck_text_sticker_shadow_smoothing" = "Blur";
+
+"ck_text_sticker_transparency" = "Opacity";
+
+"ck_text_style" = "Style";
+
+"ck_text_template" = "Text template";
+
+"ck_text_template_atmosphere" = "Ambiance";
+
+"ck_text_template_base" = "Foundation";
+
+"ck_text_template_click" = "Edit";
+
+"ck_text_template_hot" = "Popular";
+
+"ck_text_template_select" = "Select a template";
+
+"ck_text_word" = "Text";
+
+"ck_tip_close_animoji_first" = "Please close animoji first.";
+
+"ck_tip_close_arscan_first" = "Please close the AR scan first.";
+
+"ck_tip_close_sticker_first" = "Please turn off the sticker first.";
+
+"ck_tips_add_effect_track_success" = "Effects track successfully added.";
+
+"ck_tips_create_workspace_failed" = "Failed to create a working directory.";
+
+"ck_tips_current_position_split_fail" = "Split is not allowed here.";
+
+"ck_tips_delete_audio_track_failed" = "Delete track failed.";
+
+"ck_tips_draft_close_failed" = "Failed to close the draft file.";
+
+"ck_tips_draft_not_exist" = "Draft not found.";
+
+"ck_tips_draft_recover_failed" = "Failed to restore the draft!";
+
+"ck_tips_draft_save_failed" = "Failed to save the draft.";
+
+"ck_tips_draft_save_success" = "Draft saved ";
+
+"ck_tips_draft_write_failed" = "Failed to write the draft.";
+
+"ck_tips_license_expired" = "Authentication has expired n. Please contact the technical staff to renew.";
+
+"ck_tips_main_track_must_have_material" = "At least one material is required on the main track.";
+
+"ck_tips_material_not_supported" = "The selected material is not supported for import.";
+
+"ck_tips_network_error" = "Network error. Please try again.";
+
+"ck_tips_not_enough_spacing" = "Insufficient spacing between effects and the end for copying.";
+
+"ck_tips_nothing_to_recover" = "Nothing to recover.";
+
+"ck_tips_nothing_to_undo" = "Nothing to withdraw.";
+
+"ck_tips_only_support_video" = "Video only";
+
+"ck_tips_permission_granted" = "Permission given. Please re-enter.";
+
+"ck_tips_permission_require" = "To run the function, please turn on the required permissions.";
+
+"ck_tips_please_click_video_btn" = "Please click the video button first.";
+
+"ck_tips_please_enter_suffix" = "Please add the picture and suffix. ";
+
+"ck_tips_reached_recording_time" = "Reach record time limit.";
+
+"ck_tips_reached_upper_limit" = "Reached the maximum number.";
+
+"ck_tips_res_download_failed" = "Resource download failed. Please try again!";
+
+"ck_tips_resource_copying" = "Copying resources ... ";
+
+"ck_tips_resource_copying_to_sdcard" = "Copying resources to the SD card. It will automatically jump to the editing page when finished. Please be patient.";
+
+"ck_tips_resource_loading" = "Loading...";
+
+"ck_tips_save_album_success" = "Successfully saved to system album.";
+
+"ck_tips_selected_file_not_exist" = "The selected file does not exist.";
+
+"ck_tips_submitted_too_often" = "Submission is too often.";
+
+"ck_tips_the_material_not_supported" = "Unavailable material for import.";
+
+"ck_tips_too_many_pip" = "More overlays may affect the preview experience.";
+
+"ck_tone_change_speed" = "Tone shift";
+
+"ck_total_verify" = "Total number of tests";
+
+"ck_transition" = "Transition";
+
+"ck_transition_duration" = "Transition duration";
+
+"ck_undo_keyframe_success" = "Undo keyframe successfully";
+
+"ck_unip_fail" = "Decompression failed.";
+
+"ck_unknown" = "Unknown";
+
+"ck_unmute_original_audio" = "Unmute";
+
+"ck_unzip" = "Unzip";
+
+"ck_unzip_done" = "Unzipped. Time consumed:";
+
+"ck_use" = "Use";
+
+"ck_video" = "Video";
+
+"ck_video_cls_no_results" = "No result";
+
+"ck_video_dir_name" = "All videos";
+
+"ck_video_effect" = "Live effects";
+
+"ck_video_frame" = "Video frame";
+
+"ck_video_has_been_deleted" = "Video deleted";
+
+"ck_video_mask" = "Mask";
+
+"ck_video_mask_feather" = "Feather";
+
+"ck_video_mask_invert" = "Reverse";
+
+"ck_video_synthesis" = "Synthesizing";
+
+"ck_video_synthesis_failed" = "Synthesis failed";
+
+"ck_video_synthesis_success" = "Synthesis successful";
+
+"ck_vignetting" = "Vignetting";
+
+"ck_volume" = "Volume";
+
+"ck_whether_exit_edit" = "Are you sure to quit editing?";
+
+"ck_white" = "White";
+
+"ck_yaw" = "Yaw";
+
+"ck_yellow" = "Asian";
+
+"ck_yes" = "Yes";
+
+"curve_speed_dst_duration" = "%.1f";

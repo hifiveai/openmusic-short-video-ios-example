@@ -1,0 +1,75 @@
+{
+    "type": "ve_filter",
+    "resource": {
+        "list": [{
+            "name": "灰调",
+            "path": "huitiao_6945244018876825630/huitiao_6945244018876825630",
+            "icon": "huitiao_6945244018876825630/huitiao_6945244018876825630.png",
+            "hint": "",
+            "tags": "质感",
+            "name_en": "Grey tone"
+        }, {
+            "name": "白皙",
+            "path": "baixi_6945244026606731294/baixi_6945244026606731294",
+            "icon": "baixi_6945244026606731294/baixi_6945244026606731294.png",
+            "hint": "",
+            "tags": "质感",
+            "name_en": "White"
+        }, {
+            "name": "清晰",
+            "path": "qingxi_6945244024870584334/qingxi_6945244024870584334",
+            "icon": "qingxi_6945244024870584334/qingxi_6945244024870584334.png",
+            "hint": "",
+            "tags": "质感,精选",
+            "name_en": "Clear"
+        }, {
+            "name": "胡桃木",
+            "path": "hutaomu_6945244041576824846/hutaomu_6945244041576824846",
+            "icon": "hutaomu_6945244041576824846/hutaomu_6945244041576824846.png",
+            "hint": "",
+            "tags": "质感",
+            "name_en": "Walnut"
+        }, {
+            "name": "午后",
+            "path": "wuhou_6945244045434503198/wuhou_6945244045434503198",
+            "icon": "wuhou_6945244045434503198/wuhou_6945244045434503198.png",
+            "hint": "",
+            "tags": "质感",
+            "name_en": "Afternoon"
+        }, {
+            "name": "奶杏",
+            "path": "naixing_6945244051181256712/naixing_6945244051181256712",
+            "icon": "naixing_6945244051181256712/naixing_6945244051181256712.png",
+            "hint": "",
+            "tags": "质感",
+            "name_en": "Apricot"
+        }, {
+            "name": "MUJI",
+            "path": "MUJI_6945244051957530638/MUJI_6945244051957530638",
+            "icon": "MUJI_6945244051957530638/MUJI_6945244051957530638.png",
+            "hint": "",
+            "tags": "质感"
+        }, {
+            "name": "自然",
+            "path": "ziran_6945244060476391460/ziran_6945244060476391460",
+            "icon": "ziran_6945244060476391460/ziran_6945244060476391460.png",
+            "hint": "",
+            "tags": "质感,精选",
+            "name_en": "Nature"
+        }, {
+            "name": "暗调",
+            "path": "antiao_6945244065441857550/antiao_6945244065441857550",
+            "icon": "antiao_6945244065441857550/antiao_6945244065441857550.png",
+            "hint": "",
+            "tags": "质感",
+            "name_en": "Dark tone"
+        }, {
+            "name": "鲜亮",
+            "path": "xianliang_6945244068184244232/xianliang_6945244068184244232",
+            "icon": "xianliang_6945244068184244232/xianliang_6945244068184244232.png",
+            "hint": "",
+            "tags": "清新,精选",
+            "name_en": "Bright"
+        }]
+    }
+}

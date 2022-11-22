@@ -1,0 +1,107 @@
+{
+  "resource": {
+    "list": [
+      {
+        "order": 0,
+        "name": "亮度",
+        "path": "brightness_7031878287731490860/brightness_7031878287731490860",
+        "icon": "brightness_7031878287731490860/brightness_7031878287731490860.png",
+        "name_en": "Brightness",
+        "hint":"",
+        "tags":""
+      },
+      {
+        "order": 1,
+        "name": "曝光",
+        "path": "lightsensation_7031878287731753004/lightsensation_7031878287731753004",
+        "icon": "lightsensation_7031878287731753004/lightsensation_7031878287731753004.png",
+        "name_en": "Exposure",
+        "hint":"",
+        "tags":""
+      },
+      {
+        "order": 2,
+        "name": "色调",
+        "path": "tone_7031878287731556396/tone_7031878287731556396",
+        "icon": "tone_7031878287731556396/tone_7031878287731556396.png",
+        "name_en": "Tone",
+        "hint":"",
+        "tags":""
+      },
+      {
+        "order": 3,
+        "name": "对比度",
+        "path": "contrast_7031878287732408364/contrast_7031878287732408364",
+        "icon": "contrast_7031878287732408364/contrast_7031878287732408364.png",
+        "name_en": "Contrast",
+        "hint":"",
+        "tags":""
+      },
+      {
+        "order": 4,
+        "name": "饱和度",
+        "path": "saturation_7031878287731425324/saturation_7031878287731425324",
+        "icon": "saturation_7031878287731425324/saturation_7031878287731425324.png",
+        "name_en": "Saturation",
+        "hint":"",
+        "tags":""
+      },
+      {
+        "order": 5,
+        "name": "高光",
+        "path": "highlight_7031878287732342828/highlight_7031878287732342828",
+        "icon": "highlight_7031878287732342828/highlight_7031878287732342828.png",
+        "name_en": "Highlight",
+        "hint":"",
+        "tags":""
+      },
+      {
+        "order": 6,
+        "name": "色温",
+        "path": "temperature_7031878287731884076/temperature_7031878287731884076",
+        "icon": "temperature_7031878287731884076/temperature_7031878287731884076.png",
+        "name_en": "Color temperature",
+        "hint":"",
+        "tags":""
+      },
+      {
+        "order": 7,
+        "name": "锐化",
+        "path": "sharp_7031878287732211756/sharp_7031878287732211756",
+        "icon": "sharp_7031878287732211756/sharp_7031878287732211756.png",
+        "name_en": "Sharpening",
+        "hint":"",
+        "tags":""
+      },
+      {
+        "order": 8,
+        "name": "阴影",
+        "path": "shadow_7031878287732539436/shadow_7031878287732539436",
+        "icon": "shadow_7031878287732539436/shadow_7031878287732539436.png",
+        "name_en": "Shadow",
+        "hint":"",
+        "tags":""
+      },
+      {
+        "order": 9,
+        "name": "褪色",
+        "path": "fade_7031878287732473900/fade_7031878287732473900",
+        "icon": "fade_7031878287732473900/fade_7031878287732473900.png",
+        "name_en": "Fading",
+        "hint":"",
+        "tags":""
+      },
+      {
+        "order": 10,
+        "name": "暗角",
+        "path": "vignetting_7031878287731949612/vignetting_7031878287731949612",
+        "icon": "vignetting_7031878287731949612/vignetting_7031878287731949612.png",
+        "name_en": "Dark corner",
+        "hint":"",
+        "tags":""
+      }
+    ]
+  },
+  "type": "adjust",
+  "version": "1.0"
+}
